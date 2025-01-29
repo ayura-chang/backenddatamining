@@ -17,7 +17,7 @@ app.add_middleware(
 )
 
 
-data = pd.read_csv('Mental_Health_dataset.csv', delimiter=';')
+data = pd.read_csv('Mental_Health_dataset.csv')
 
 
 data = data[['Gender', 'Age', 'Course', 'YearOfStudy', 'CGPA', 'Depression', 'Anxiety',
@@ -76,7 +76,7 @@ def get_predictions():
     except FileNotFoundError:
         return {"error": "Processed data file not found. Please train the model first."}
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     import uvicorn
     for route in app.routes:
         print(f"Endpoint: {route.path} | Method: {route.methods}")
