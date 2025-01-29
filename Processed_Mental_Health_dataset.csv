@@ -1,0 +1,1001 @@
+Gender,Age,Course,YearOfStudy,CGPA,Depression,Anxiety,PanicAttack,SpecialistTreatment,SymptomFrequency_Last7Days,HasMentalHealthSupport,SleepQuality,StudyStressLevel,StudyHoursPerWeek,AcademicEngagement,No,Prediction,Prediction_Label
+0,24,Biotechnology,2,2.38,1,0,0,0,5,0,4,5,8,2,0,1,Depression
+0,18,Biotechnology,2,4.0,0,1,0,0,0,0,4,4,13,5,1,0,No Depression
+0,25,Biotechnology,2,3.68,0,0,1,0,3,0,1,2,13,1,1,0,No Depression
+0,18,Engineering,6,4.0,0,0,0,0,3,0,5,1,19,2,1,1,Depression
+0,20,Engineering,6,2.0,1,1,0,0,0,0,2,4,3,2,0,0,No Depression
+0,19,Engineering,6,4.0,0,0,1,0,4,0,4,1,15,3,1,1,Depression
+0,25,Communication ,1,2.0,1,1,0,0,0,0,1,2,1,2,0,0,No Depression
+0,24,Diploma Nursing,4,2.72,0,0,0,0,3,0,3,5,8,2,1,1,Depression
+0,24,Pendidikan Islam ,1,2.3,0,0,0,0,5,0,4,4,5,3,1,1,Depression
+0,19,Engineering,3,4.0,1,1,0,0,5,0,4,2,16,3,0,0,No Depression
+0,21,Pendidikan Islam ,1,4.0,1,0,0,0,6,0,4,5,16,3,0,0,No Depression
+0,18,Diploma Nursing,4,2.0,1,0,0,0,7,0,1,3,6,1,0,1,Depression
+0,20,Engineering,3,4.0,1,0,0,0,3,0,4,1,18,2,0,1,Depression
+1,23,Radiography,3,2.0,0,0,0,0,6,0,5,4,1,3,1,1,Depression
+1,23,Radiography,3,2.84,0,1,1,0,0,0,4,3,10,1,1,1,Depression
+0,18,psychology,3,3.28,1,0,0,1,5,1,2,1,13,3,0,1,Depression
+0,19,Fiqh fatwa ,2,4.0,1,1,0,0,1,0,4,5,14,4,0,0,No Depression
+0,20,Fiqh fatwa ,2,2.12,0,0,0,0,7,0,1,1,6,4,1,1,Depression
+0,25,psychology,3,2.0,1,1,1,0,4,0,2,3,4,1,0,1,Depression
+0,21,psychology,3,4.0,0,1,1,0,1,0,1,5,16,1,1,0,No Depression
+1,24,BIT,3,2.59,0,1,0,0,3,0,1,2,9,1,1,1,Depression
+1,23,BIT,3,4.0,1,0,1,0,0,0,2,5,19,5,0,1,Depression
+1,25,BIT,3,3.98,0,1,1,0,1,0,5,5,13,5,1,1,Depression
+1,18,Engineering,1,4.0,0,0,0,0,3,0,5,1,19,2,1,1,Depression
+1,20,Engineering,1,3.51,1,0,1,0,1,0,4,1,12,1,0,0,No Depression
+1,25,Engineering,1,2.0,1,0,1,0,0,0,5,3,2,3,0,1,Depression
+1,19,Engineering,1,2.0,1,1,0,0,2,0,3,4,3,5,0,1,Depression
+0,19,DIPLOMA TESL,2,3.12,1,1,1,0,6,0,4,4,7,1,0,0,No Depression
+0,22,DIPLOMA TESL,2,4.0,1,1,0,0,0,0,2,3,15,5,0,1,Depression
+1,23,Koe,1,2.0,0,0,1,0,0,0,4,1,3,1,1,1,Depression
+1,22,Koe,1,2.89,0,0,1,0,5,0,2,1,9,1,1,0,No Depression
+1,18,Koe,1,2.0,0,1,1,0,2,0,5,3,1,5,1,1,Depression
+1,20,Koe,1,2.0,0,1,0,0,0,0,2,3,6,3,1,1,Depression
+1,20,Koe,1,2.0,1,0,0,0,5,0,4,3,1,2,0,0,No Depression
+0,20,KOE,4,4.0,0,0,0,0,6,0,3,3,19,2,1,1,Depression
+0,19,KOE,4,2.0,0,1,0,0,3,0,1,3,3,5,1,1,Depression
+0,20,KOE,4,4.0,0,0,1,0,0,0,5,5,19,1,1,1,Depression
+0,22,BENL,3,2.0,1,0,0,0,6,0,2,5,5,1,0,1,Depression
+0,25,Fiqh,2,4.0,1,1,0,0,0,0,3,2,16,4,0,1,Depression
+0,20,Fiqh,2,4.0,1,0,1,0,5,0,5,2,19,1,0,1,Depression
+0,22,Fiqh,2,3.38,0,0,1,0,1,0,4,3,11,4,1,1,Depression
+0,18,Islamic Education,3,3.61,0,0,0,0,5,0,3,2,16,1,1,0,No Depression
+0,22,Islamic Education,3,3.77,0,0,1,0,4,0,1,1,12,5,1,1,Depression
+0,23,Islamic Education,3,3.47,1,1,1,0,4,0,4,4,11,1,0,0,No Depression
+0,21,BCS,3,2.58,1,0,1,0,3,0,4,2,3,2,0,0,No Depression
+0,25,BCS,3,3.36,0,0,0,0,5,0,5,3,11,4,1,1,Depression
+1,20,Engineering,1,2.89,1,1,1,0,4,0,3,1,6,3,0,0,No Depression
+1,18,Engineering,1,4.0,1,1,0,0,5,0,3,1,10,4,0,0,No Depression
+1,21,Engineering,1,3.5,1,0,1,0,4,0,1,5,8,5,0,0,No Depression
+1,21,Engineering,1,2.38,0,1,0,0,0,0,4,5,8,2,1,1,Depression
+0,25,Nursing ,2,4.0,1,1,1,0,2,0,3,5,9,5,0,0,No Depression
+0,25,Nursing ,2,3.39,1,0,1,0,2,0,2,4,10,4,0,1,Depression
+0,24,Nursing ,2,4.0,0,0,0,0,0,0,2,4,17,4,1,1,Depression
+0,20,Nursing ,2,3.95,0,1,1,0,0,0,4,4,15,4,1,1,Depression
+0,22,Nursing ,2,4.0,0,1,1,0,1,0,3,4,19,4,1,1,Depression
+0,25,Nursing ,2,2.0,1,1,1,0,3,0,3,2,1,2,0,0,No Depression
+0,23,Pendidikan Islam,6,3.25,0,0,0,0,4,0,5,4,8,5,1,1,Depression
+0,23,Pendidikan Islam,6,3.12,1,1,0,0,6,0,3,5,12,1,0,0,No Depression
+1,20,Biomedical science,1,2.0,0,0,0,0,6,0,3,3,3,4,1,1,Depression
+0,18,Engineering,3,3.25,1,0,1,0,6,0,3,3,7,5,0,0,No Depression
+0,22,Engineering,3,2.0,0,0,1,0,1,0,2,1,2,1,1,0,No Depression
+0,21,Engineering,3,2.0,1,0,0,0,2,0,2,3,4,1,0,1,Depression
+0,21,Engineering,3,4.0,0,0,0,0,1,0,2,2,17,2,1,0,No Depression
+1,21,Islamic education,4,4.0,0,1,0,0,3,0,5,5,15,2,1,0,No Depression
+1,22,Islamic education,4,2.75,0,1,0,0,2,0,2,4,6,5,1,1,Depression
+1,18,Islamic education,4,4.0,0,1,1,0,4,0,5,5,14,4,1,0,No Depression
+1,23,BIT,0,2.77,1,1,0,0,5,0,4,2,7,2,0,0,No Depression
+0,22,Laws,5,3.3,1,0,0,0,6,0,5,5,8,1,0,0,No Depression
+0,21,Laws,5,3.96,1,0,0,0,3,0,3,3,13,3,0,0,No Depression
+0,21,Laws,5,2.0,0,0,0,0,2,0,2,4,1,2,1,0,No Depression
+0,18,Laws,5,4.0,1,0,0,0,7,0,1,2,15,3,0,0,No Depression
+1,23,Mathemathics,6,2.0,0,0,0,0,2,0,2,2,7,1,1,1,Depression
+1,21,Mathemathics,6,2.9,1,0,0,0,1,0,3,1,4,4,0,0,No Depression
+1,20,Mathemathics,6,4.0,1,1,0,0,6,0,3,4,15,4,0,0,No Depression
+1,24,Engineering,1,2.43,0,1,0,0,2,0,2,3,5,4,1,1,Depression
+1,20,Engineering,1,2.0,0,0,0,0,0,0,2,4,2,5,1,1,Depression
+0,23,Pendidikan islam,4,3.77,1,0,1,0,4,0,4,3,11,3,0,0,No Depression
+0,22,Pendidikan islam,4,4.0,1,0,0,0,4,0,2,4,15,4,0,0,No Depression
+0,20,Pendidikan islam,4,3.65,0,1,1,0,4,0,3,5,11,5,1,0,No Depression
+0,20,Pendidikan islam,4,4.0,1,0,1,0,6,0,1,2,19,4,0,1,Depression
+0,24,BCS,3,2.42,0,1,0,0,4,0,3,2,7,5,1,1,Depression
+0,19,Human Resources,1,2.0,0,0,0,0,6,0,3,2,4,4,1,1,Depression
+0,18,Human Resources,1,4.0,0,0,0,0,2,0,2,2,17,2,1,0,No Depression
+0,18,Human Resources,1,4.0,0,1,1,0,2,0,5,5,16,5,1,1,Depression
+0,19,Human Resources,1,4.0,0,1,0,0,7,0,2,5,19,2,1,0,No Depression
+1,18,Irkhs,3,2.61,0,1,1,0,1,0,3,4,8,2,1,1,Depression
+0,20,Psychology,3,2.0,0,0,0,0,2,0,4,2,3,4,1,1,Depression
+0,23,Engineering,2,2.0,1,0,1,0,2,0,3,4,1,5,0,1,Depression
+1,23,Irkhs,3,2.91,1,1,0,0,6,0,5,4,7,3,0,0,No Depression
+0,18,Engineering,2,4.0,0,1,1,0,7,0,1,4,17,1,1,0,No Depression
+1,20,Irkhs,3,4.0,1,0,0,0,4,0,4,2,15,3,0,0,No Depression
+0,21,BCS,3,4.0,1,1,1,0,6,0,5,1,16,1,0,0,No Depression
+0,19,BCS,3,4.0,1,1,1,0,2,0,5,5,17,2,0,1,Depression
+1,19,Engineering,3,2.0,0,0,0,0,2,0,3,5,6,3,1,1,Depression
+1,22,Engineering,3,3.53,1,0,1,0,7,0,2,1,10,4,0,0,No Depression
+1,22,Engineering,3,4.0,1,1,0,0,7,0,4,2,19,2,0,1,Depression
+1,25,Engineering,3,2.28,0,1,0,0,4,0,4,2,5,4,1,1,Depression
+1,18,Engineering,3,3.65,0,1,0,0,1,0,4,3,14,1,1,0,No Depression
+1,24,Engineering,3,3.64,1,0,0,0,7,0,5,1,13,1,0,0,No Depression
+1,22,Engineering,3,2.15,0,1,1,0,0,0,4,4,6,1,1,1,Depression
+1,22,Engineering,3,2.69,0,1,1,0,0,0,1,1,5,4,1,1,Depression
+1,24,BCS,2,2.0,0,0,0,0,4,0,3,2,1,5,1,1,Depression
+1,20,BCS,2,2.83,0,1,0,0,6,0,1,4,8,4,1,1,Depression
+1,18,BCS,2,4.0,0,0,0,0,3,0,4,4,17,3,1,1,Depression
+0,19,KENMS,1,4.0,0,1,0,0,5,0,4,1,17,3,1,1,Depression
+0,24,KENMS,1,2.49,0,0,1,0,6,0,5,2,5,4,1,1,Depression
+0,24,Accounting ,5,3.35,0,0,0,0,3,0,1,2,12,4,1,1,Depression
+0,21,ENM,6,4.0,1,1,1,0,3,0,5,4,14,4,0,1,Depression
+0,18,ENM,6,3.32,1,1,1,0,6,0,1,3,6,5,0,0,No Depression
+0,20,BIT,1,4.0,0,1,0,0,7,0,4,2,17,4,1,1,Depression
+0,18,Marine science,4,2.72,1,1,1,0,2,0,1,1,10,1,0,1,Depression
+0,20,Marine science,4,2.0,0,0,1,0,0,0,4,1,1,1,1,0,No Depression
+0,22,Marine science,4,2.71,1,1,1,0,1,0,1,5,6,1,0,0,No Depression
+0,19,Marine science,4,2.42,0,1,0,0,0,0,4,3,4,5,1,1,Depression
+0,18,Marine science,4,2.77,0,1,0,0,0,0,5,2,6,4,1,1,Depression
+0,21,Engineering,3,4.0,0,0,1,0,6,0,2,2,18,2,1,1,Depression
+0,25,Engineering,3,3.09,1,1,1,0,4,0,4,1,11,1,0,1,Depression
+0,20,Engineering,3,2.61,0,0,1,0,2,0,5,3,9,3,1,1,Depression
+0,23,BCS,3,2.0,1,1,0,0,6,0,1,4,4,1,0,0,No Depression
+0,24,Engineering,3,4.0,0,0,0,0,7,0,4,3,19,3,1,1,Depression
+0,24,Engineering,3,3.46,0,0,1,0,5,0,4,5,13,1,1,0,No Depression
+0,20,Engineering,3,2.0,0,0,1,0,7,0,5,4,1,2,1,0,No Depression
+0,24,Engineering,3,3.46,0,0,1,0,4,0,4,4,11,1,1,0,No Depression
+0,24,BCS,2,2.69,1,1,0,0,1,0,1,1,5,3,0,0,No Depression
+0,19,BCS,2,4.0,1,1,0,0,4,0,2,2,14,1,0,0,No Depression
+0,23,BCS,2,3.7,1,1,1,0,2,0,3,3,11,4,0,0,No Depression
+0,20,Banking Studies,3,2.0,0,1,0,0,0,0,3,1,1,1,1,0,No Depression
+0,19,Engineering,3,2.0,0,0,0,0,5,0,1,1,5,4,1,1,Depression
+0,18,Engineering,3,2.7,0,0,1,0,0,0,1,2,5,5,1,1,Depression
+0,20,Engineering,3,4.0,1,0,1,0,5,0,3,4,13,3,0,0,No Depression
+0,20,Engineering,3,4.0,1,1,0,0,4,0,1,1,17,4,0,1,Depression
+0,20,Engineering,3,3.72,1,0,0,0,6,0,5,2,11,5,0,0,No Depression
+1,18,Engineering,1,4.0,1,1,0,0,1,0,4,3,19,1,0,1,Depression
+1,25,Engineering,1,2.89,0,1,1,0,0,0,5,2,7,3,1,1,Depression
+1,23,Engineering,1,4.0,0,0,1,0,0,0,1,2,16,2,1,0,No Depression
+1,22,Engineering,1,4.0,1,0,0,0,3,0,2,2,18,3,0,1,Depression
+0,24,BIT,2,2.93,1,1,1,1,7,1,3,2,7,5,0,1,Depression
+0,22,BIT,2,2.79,1,1,0,1,7,1,1,2,7,2,0,0,No Depression
+0,24,BCS,6,3.14,0,0,0,0,3,0,5,1,9,3,1,1,Depression
+0,25,BCS,6,4.0,1,1,0,0,0,0,1,3,18,5,0,1,Depression
+0,22,BCS,6,2.0,1,0,0,0,6,0,5,1,3,1,0,1,Depression
+0,18,Business Administration,1,2.0,0,1,1,0,4,0,3,3,1,5,1,1,Depression
+0,20,Business Administration,1,3.43,0,1,1,0,4,0,5,5,9,4,1,0,No Depression
+0,20,Business Administration,1,4.0,0,1,1,0,4,0,4,2,17,2,1,0,No Depression
+0,21,Business Administration,1,2.16,0,1,0,0,0,0,3,4,4,3,1,1,Depression
+1,23,BCS,4,2.85,0,0,1,0,0,0,4,1,8,3,1,1,Depression
+1,23,BCS,4,4.0,0,1,1,0,2,0,3,2,14,5,1,1,Depression
+1,25,BCS,3,4.0,0,0,0,0,0,0,3,2,18,1,1,1,Depression
+1,25,BCS,3,3.01,1,0,0,0,4,0,4,2,5,4,0,0,No Depression
+1,20,BCS,4,4.0,1,1,0,0,2,0,1,5,18,5,0,1,Depression
+1,23,BCS,4,3.38,0,0,1,0,3,0,5,5,7,5,1,0,No Depression
+1,23,BCS,1,2.0,0,1,0,1,2,1,3,3,1,3,1,1,Depression
+1,21,BCS,1,3.66,0,0,0,1,5,1,5,5,13,2,1,1,Depression
+1,24,BCS,1,3.09,1,0,0,1,1,1,1,5,6,5,0,1,Depression
+0,23,BIT,3,4.0,1,1,1,0,3,0,3,2,18,3,0,1,Depression
+0,24,BIT,3,2.0,0,0,0,0,2,0,5,1,1,3,1,1,Depression
+0,21,BIT,3,3.49,0,0,1,0,4,0,2,4,11,5,1,1,Depression
+0,18,BIT,3,4.0,1,0,0,0,5,0,3,2,17,5,0,1,Depression
+0,24,BIT,3,4.0,1,1,1,0,3,0,5,2,19,3,0,1,Depression
+0,19,BIT,3,4.0,0,0,0,0,0,0,3,3,17,3,1,1,Depression
+0,23,BIT,3,4.0,0,0,0,0,2,0,2,3,14,5,1,0,No Depression
+0,25,BIT,3,4.0,0,0,1,0,3,0,2,4,19,4,1,1,Depression
+0,23,BIT,3,2.0,1,0,1,0,1,0,3,4,4,3,0,1,Depression
+0,22,Engineering,3,2.0,1,1,0,0,2,0,1,3,1,1,0,0,No Depression
+0,21,Law,2,4.0,0,1,1,0,7,0,3,3,18,3,1,1,Depression
+0,21,Law,2,4.0,0,0,1,0,2,0,4,4,18,1,1,1,Depression
+0,19,BIT,3,4.0,1,1,1,0,0,0,3,5,15,2,0,0,No Depression
+0,20,BIT,3,2.0,0,0,1,0,6,0,3,3,1,4,1,1,Depression
+0,20,BIT,3,2.0,0,0,0,0,0,0,5,2,2,3,1,1,Depression
+0,23,KIRKHS,3,4.0,0,0,0,0,7,0,5,5,19,5,1,1,Depression
+0,20,KIRKHS,3,2.66,0,1,1,0,6,0,3,5,7,5,1,1,Depression
+0,19,KIRKHS,3,4.0,0,0,1,0,5,0,3,4,18,1,1,0,No Depression
+0,25,Engineering,1,2.0,0,1,0,1,3,1,3,5,4,5,1,1,Depression
+0,21,Engineering,1,4.0,0,0,0,1,2,1,5,5,17,4,1,1,Depression
+0,21,Engineering,6,3.16,1,1,0,0,6,0,5,5,7,4,0,0,No Depression
+0,21,Engineering,6,2.08,0,0,1,0,7,0,3,1,2,5,1,1,Depression
+0,24,Engineering,6,4.0,1,1,1,0,2,0,1,2,19,4,0,1,Depression
+0,25,BIT,2,2.0,0,0,0,0,2,0,3,3,4,2,1,1,Depression
+0,19,BIT,2,2.0,1,0,1,0,1,0,5,4,1,3,0,1,Depression
+0,19,Usuluddin ,4,3.06,1,1,1,0,0,0,3,1,9,1,0,0,No Depression
+0,18,Usuluddin ,4,2.52,0,1,0,0,4,0,4,2,4,4,1,0,No Depression
+1,24,BIT,3,2.0,0,1,1,0,7,0,1,5,2,4,1,1,Depression
+1,25,TAASL,4,2.85,0,1,0,0,7,0,4,1,9,3,1,1,Depression
+1,24,TAASL,4,4.0,1,0,0,0,7,0,4,4,14,2,0,0,No Depression
+1,23,TAASL,4,2.36,1,0,0,0,1,0,3,3,6,2,0,1,Depression
+1,21,BCS,3,3.58,0,1,0,0,4,0,1,1,11,4,1,0,No Depression
+1,23,BCS,3,2.0,1,1,0,0,6,0,2,2,1,2,0,0,No Depression
+1,22,BCS,3,2.15,1,1,1,0,1,0,5,3,3,1,0,1,Depression
+1,19,BCS,3,4.0,1,0,0,0,4,0,4,2,18,3,0,1,Depression
+0,23,Engineering,3,2.0,1,0,0,0,2,0,4,1,5,3,0,1,Depression
+0,22,Engineering,3,4.0,0,0,0,0,3,0,1,1,14,1,1,0,No Depression
+0,18,Engineering,3,2.0,0,1,1,0,3,0,4,5,4,3,1,1,Depression
+0,18,Engineering,3,2.86,1,0,1,0,5,0,5,1,7,1,0,0,No Depression
+1,24,BCS,4,2.32,1,0,0,0,5,0,2,4,4,3,0,1,Depression
+0,24,Engine,6,4.0,0,1,0,0,5,0,2,3,13,4,1,0,No Depression
+1,21,BCS,4,3.54,0,1,1,0,1,0,5,4,11,2,1,0,No Depression
+0,19,Engine,6,4.0,1,0,0,0,6,0,4,2,10,5,0,0,No Depression
+0,21,BCS,5,4.0,1,0,1,0,6,0,5,5,15,1,0,0,No Depression
+0,21,BCS,4,2.26,1,1,1,0,0,0,2,4,2,5,0,1,Depression
+0,23,BCS,4,3.0,1,1,1,0,6,0,5,1,7,3,0,0,No Depression
+0,20,Biomedical science,5,3.34,0,0,1,0,7,0,4,3,10,1,1,0,No Depression
+0,21,Biomedical science,5,2.45,1,0,1,0,5,0,2,2,7,2,0,1,Depression
+0,20,Biomedical science,5,2.0,0,0,1,0,2,0,2,5,3,2,1,1,Depression
+0,19,Biomedical science,5,4.0,0,1,0,0,5,0,4,2,13,5,1,0,No Depression
+0,21,koe,5,3.67,1,0,0,0,5,0,3,4,13,2,0,0,No Depression
+0,23,koe,5,2.49,1,1,0,0,7,0,1,2,6,3,0,0,No Depression
+0,18,BCS,3,4.0,1,0,0,1,0,1,2,5,14,3,0,0,No Depression
+0,18,BCS,3,3.06,1,1,0,1,3,1,2,1,6,4,0,0,No Depression
+0,20,BCS,3,3.01,0,1,0,1,5,1,2,3,7,3,1,0,No Depression
+1,23,BCS,3,3.71,0,0,0,0,7,0,5,2,13,3,1,1,Depression
+1,22,BCS,3,4.0,0,1,0,0,3,0,1,4,14,4,1,0,No Depression
+1,19,Kirkhs,2,4.0,1,0,0,0,3,0,3,1,18,2,0,1,Depression
+1,24,Kirkhs,2,4.0,1,1,0,0,2,0,5,4,16,1,0,0,No Depression
+0,19,BENL,2,3.36,0,0,0,0,7,0,4,3,10,4,1,0,No Depression
+0,19,BCS,3,2.66,0,0,0,0,6,0,2,2,8,4,1,1,Depression
+0,18,CTS,0,3.83,0,0,1,0,4,0,3,1,14,4,1,1,Depression
+0,23,CTS,0,4.0,1,1,0,0,0,0,3,1,17,2,0,0,No Depression
+0,25,CTS,0,3.87,0,1,0,0,4,0,2,4,15,2,1,0,No Depression
+0,22,CTS,0,2.75,0,0,1,0,6,0,5,4,9,3,1,1,Depression
+0,18,CTS,0,4.0,1,0,0,0,4,0,1,1,18,2,0,0,No Depression
+0,19,CTS,0,2.0,1,0,1,0,7,0,1,2,3,1,0,0,No Depression
+0,25,CTS,0,2.0,0,0,0,0,3,0,5,2,1,3,1,1,Depression
+0,18,engin,3,2.0,1,1,0,0,2,0,2,2,3,2,0,0,No Depression
+0,19,engin,3,2.0,0,1,1,0,1,0,2,3,1,1,1,0,No Depression
+0,23,engin,3,4.0,0,0,0,0,4,0,4,3,16,2,1,0,No Depression
+0,22,Engine,3,3.36,1,0,1,0,0,0,3,3,9,5,0,1,Depression
+0,22,Engine,3,2.41,1,1,1,0,7,0,1,5,5,2,0,0,No Depression
+0,24,Engine,3,4.0,1,0,1,0,2,0,2,3,15,4,0,1,Depression
+0,25,Econs,3,2.0,0,1,0,0,1,0,1,5,5,1,1,1,Depression
+0,19,Econs,3,4.0,0,0,0,0,6,0,5,1,15,4,1,1,Depression
+0,23,KOE,2,2.0,1,1,1,0,5,0,1,2,1,3,0,0,No Depression
+1,19,MHSC,2,2.43,1,1,1,0,3,0,3,1,7,2,0,1,Depression
+0,21,Malcom,3,4.0,0,0,1,0,4,0,1,5,16,4,1,1,Depression
+0,18,Malcom,3,4.0,0,1,0,0,6,0,1,5,14,3,1,0,No Depression
+0,23,Malcom,3,2.13,1,1,1,0,3,0,3,1,2,3,0,1,Depression
+0,24,Kop,6,4.0,1,0,0,0,7,0,4,5,16,2,0,0,No Depression
+0,24,Biomedical science,3,4.0,0,0,0,0,1,0,2,3,15,2,1,0,No Depression
+0,19,Biomedical science,3,4.0,0,1,1,0,5,0,3,5,14,4,1,0,No Depression
+0,18,Laws,2,4.0,0,0,1,0,1,0,4,5,13,4,1,0,No Depression
+0,24,Laws,2,2.94,0,1,1,0,2,0,1,4,6,5,1,0,No Depression
+0,19,BIT,2,2.0,1,0,0,0,0,0,5,3,1,3,0,1,Depression
+0,24,BIT,2,2.63,1,0,0,0,2,0,5,2,5,5,0,1,Depression
+1,21,BIT,2,3.04,0,0,0,0,2,0,4,4,9,5,1,1,Depression
+1,20,BIT,2,4.0,0,0,1,0,5,0,5,5,13,5,1,1,Depression
+1,18,BIT,2,4.0,0,0,0,0,4,0,2,2,17,5,1,1,Depression
+1,24,BIT,2,4.0,0,1,1,0,3,0,3,1,19,5,1,1,Depression
+1,24,BIT,2,2.0,1,0,0,0,7,0,5,4,2,4,0,1,Depression
+0,23,KOE,3,4.0,0,1,1,0,7,0,4,4,19,5,1,1,Depression
+0,21,KOE,3,4.0,1,0,1,0,1,0,3,3,13,1,0,0,No Depression
+0,25,Engineering,3,2.58,0,0,1,0,2,0,3,4,4,4,1,1,Depression
+0,21,Engineering,3,2.82,1,1,0,0,0,0,5,2,8,1,0,0,No Depression
+0,25,Engineering,3,3.28,1,0,1,0,6,0,1,1,11,3,0,1,Depression
+0,18,Human Sciences ,1,2.39,0,0,1,0,3,0,1,4,8,2,1,1,Depression
+0,23,Human Sciences ,1,3.83,1,1,1,0,3,0,2,2,12,3,0,0,No Depression
+0,21,Human Sciences ,1,3.97,1,0,1,0,0,0,4,1,13,1,0,0,No Depression
+0,21,Human Sciences ,1,3.71,1,0,0,0,0,0,3,2,11,1,0,0,No Depression
+0,19,Biotechnology,2,2.82,0,0,0,0,6,0,1,3,11,1,1,0,No Depression
+0,23,Biotechnology,2,3.03,1,1,1,0,1,0,1,4,8,1,0,0,No Depression
+0,19,Biotechnology,2,2.0,1,0,0,0,6,0,1,1,3,1,0,0,No Depression
+0,21,Engineering,6,4.0,1,1,0,0,4,0,3,5,11,4,0,0,No Depression
+0,20,Engineering,6,2.0,0,0,1,0,7,0,1,3,5,1,1,1,Depression
+0,21,Engineering,6,2.74,0,1,1,0,1,0,5,1,7,4,1,1,Depression
+0,19,Engineering,6,2.42,0,0,1,0,4,0,1,3,7,3,1,1,Depression
+0,23,Engineering,6,4.0,1,1,1,0,4,0,3,2,15,2,0,0,No Depression
+0,24,Communication ,1,4.0,1,1,1,0,6,0,5,1,17,3,0,1,Depression
+0,25,Communication ,1,2.0,1,0,0,0,0,0,2,1,2,2,0,1,Depression
+0,24,Communication ,1,3.37,1,1,0,0,6,0,3,4,10,3,0,0,No Depression
+0,22,Communication ,1,2.0,0,0,0,0,5,0,5,2,1,4,1,1,Depression
+0,24,Communication ,1,2.23,0,0,0,0,0,0,4,5,4,3,1,1,Depression
+0,18,Diploma Nursing,4,2.71,1,1,1,0,0,0,5,5,3,4,0,0,No Depression
+0,23,Pendidikan Islam ,1,4.0,1,0,1,0,7,0,5,3,16,4,0,1,Depression
+0,23,Pendidikan Islam ,1,3.25,0,1,1,0,4,0,1,5,8,4,1,0,No Depression
+0,24,Pendidikan Islam ,1,2.94,0,1,1,0,2,0,4,1,5,4,1,0,No Depression
+0,24,Pendidikan Islam ,1,2.63,0,0,0,0,3,0,1,5,9,1,1,0,No Depression
+0,21,Diploma Nursing,4,2.99,0,1,0,0,5,0,3,5,10,3,1,1,Depression
+1,18,Radiography,3,2.76,0,0,1,0,6,0,1,3,9,2,1,1,Depression
+1,22,Radiography,3,3.67,1,1,1,0,7,0,5,1,9,5,0,0,No Depression
+0,20,psychology,3,2.0,1,1,0,1,0,1,1,3,4,5,0,1,Depression
+0,24,psychology,3,4.0,0,1,0,1,0,1,3,5,17,5,1,1,Depression
+0,19,Fiqh fatwa ,2,3.18,0,0,0,0,5,0,5,1,10,3,1,1,Depression
+0,25,Fiqh fatwa ,2,3.27,0,1,0,0,6,0,5,1,11,2,1,0,No Depression
+0,19,psychology,3,4.0,0,0,0,0,3,0,1,3,17,4,1,1,Depression
+1,24,Engineering,1,4.0,1,0,1,0,3,0,1,3,19,5,0,1,Depression
+1,18,Engineering,1,2.0,1,1,0,0,6,0,1,2,3,1,0,0,No Depression
+0,23,DIPLOMA TESL,2,3.12,0,0,1,0,7,0,5,4,9,3,1,1,Depression
+0,20,DIPLOMA TESL,2,4.0,1,1,0,0,5,0,2,3,18,4,0,1,Depression
+0,25,DIPLOMA TESL,2,2.0,1,0,0,0,4,0,1,5,5,1,0,1,Depression
+1,20,Koe,1,3.63,0,1,1,0,1,0,1,4,13,1,1,0,No Depression
+1,20,Koe,1,2.0,0,0,0,0,2,0,1,5,1,4,1,0,No Depression
+0,22,KOE,4,2.0,0,0,1,0,2,0,2,3,4,3,1,1,Depression
+0,18,BENL,3,2.0,1,0,0,0,5,0,5,1,2,4,0,1,Depression
+0,23,BENL,3,2.32,0,0,1,0,1,0,3,1,4,4,1,1,Depression
+0,21,BENL,3,2.08,0,1,1,0,7,0,3,1,3,2,1,1,Depression
+0,24,BENL,3,3.45,1,0,0,0,6,0,2,2,11,3,0,0,No Depression
+0,25,BENL,3,2.0,1,1,0,0,2,0,4,5,1,2,0,0,No Depression
+0,21,Fiqh,2,2.09,0,0,0,0,2,0,2,1,5,1,1,1,Depression
+0,22,Fiqh,2,4.0,1,0,0,0,3,0,2,5,15,2,0,0,No Depression
+0,18,BCS,3,2.18,0,0,1,0,7,0,4,5,5,3,1,1,Depression
+0,18,BCS,3,4.0,0,1,0,0,3,0,4,4,14,3,1,0,No Depression
+0,25,BCS,3,4.0,0,0,0,0,2,0,3,2,16,3,1,1,Depression
+0,23,BCS,3,2.99,1,1,0,0,4,0,5,4,10,1,0,0,No Depression
+0,19,BCS,3,4.0,1,0,1,0,1,0,1,3,15,3,0,0,No Depression
+0,21,BCS,3,2.04,0,0,1,0,6,0,5,1,4,2,1,1,Depression
+1,18,Engineering,1,2.05,1,1,0,0,3,0,2,2,3,4,0,1,Depression
+1,19,Engineering,1,2.0,1,0,1,0,1,0,3,3,2,1,0,0,No Depression
+1,21,Engineering,1,3.22,1,0,1,0,1,0,5,5,9,3,0,1,Depression
+1,21,Engineering,1,2.0,1,0,1,0,4,0,1,3,2,4,0,1,Depression
+0,19,Pendidikan Islam,6,2.64,1,0,1,0,2,0,1,3,8,3,0,1,Depression
+1,19,Biomedical science,1,2.0,0,0,1,0,3,0,4,1,2,4,1,1,Depression
+0,18,Engineering,3,3.96,0,1,1,0,3,0,5,3,13,2,1,0,No Depression
+0,21,Engineering,3,2.0,1,1,0,0,5,0,4,5,2,5,0,1,Depression
+1,20,Islamic education,4,2.53,1,1,0,0,5,0,4,2,3,5,0,1,Depression
+1,18,BIT,0,2.74,1,0,0,0,2,0,1,2,10,1,0,1,Depression
+0,18,Laws,5,2.9,0,1,0,0,6,0,2,3,9,5,1,1,Depression
+0,25,Laws,5,2.83,1,1,1,0,7,0,3,3,5,4,0,0,No Depression
+0,21,Laws,5,2.0,0,0,0,0,7,0,4,3,1,3,1,1,Depression
+0,21,Laws,5,3.24,1,0,0,0,7,0,3,2,9,5,0,1,Depression
+1,19,Mathemathics,6,4.0,1,0,1,0,5,0,1,5,16,2,0,0,No Depression
+1,19,Engineering,1,3.71,0,1,0,0,5,0,1,3,12,5,1,0,No Depression
+0,21,Pendidikan islam,4,2.06,1,0,0,0,7,0,1,2,5,1,0,1,Depression
+0,25,Pendidikan islam,4,4.0,0,1,1,0,6,0,1,1,15,1,1,0,No Depression
+0,18,BCS,3,3.6,0,1,0,0,4,0,2,4,11,3,1,0,No Depression
+0,21,Human Resources,1,2.31,0,0,1,0,1,0,1,2,3,4,1,1,Depression
+1,25,Irkhs,3,3.44,1,0,1,0,5,0,1,2,16,1,0,1,Depression
+1,21,Irkhs,3,4.0,0,0,1,0,7,0,4,2,19,2,1,1,Depression
+0,18,Engineering,2,3.6,1,1,1,0,2,0,1,4,12,2,0,0,No Depression
+0,18,Psychology,3,3.11,0,0,0,0,5,0,4,3,12,2,1,1,Depression
+0,22,Psychology,3,3.11,0,0,1,0,3,0,1,2,10,1,1,0,No Depression
+0,24,Psychology,3,2.65,0,1,0,0,3,0,3,4,4,4,1,0,No Depression
+0,22,Engineering,2,3.73,1,0,0,0,4,0,1,3,15,1,0,0,No Depression
+1,24,Irkhs,3,2.0,0,1,0,0,3,0,4,5,3,3,1,1,Depression
+0,21,Psychology,3,3.74,1,0,1,0,2,0,3,1,11,5,0,1,Depression
+0,18,Psychology,3,3.81,1,1,1,0,2,0,2,5,10,5,0,0,No Depression
+0,18,BCS,3,4.0,1,0,0,0,3,0,5,5,12,5,0,0,No Depression
+0,20,BCS,3,4.0,1,0,1,0,7,0,1,4,17,1,0,0,No Depression
+0,22,BCS,3,2.74,0,1,1,0,0,0,2,3,6,2,1,0,No Depression
+0,22,BCS,3,3.37,1,0,1,0,2,0,1,4,8,3,0,0,No Depression
+1,23,Engineering,3,2.14,1,0,1,0,3,0,5,1,5,2,0,1,Depression
+1,23,Engineering,3,3.12,0,1,0,0,1,0,3,3,8,4,1,0,No Depression
+0,18,KENMS,1,2.0,0,1,0,0,7,0,2,4,2,4,1,0,No Depression
+0,23,KENMS,1,2.0,0,0,1,0,1,0,1,3,6,2,1,1,Depression
+0,22,Accounting ,5,2.0,0,0,1,0,3,0,5,5,2,4,1,1,Depression
+0,20,Accounting ,5,2.47,0,1,1,0,3,0,2,3,6,4,1,1,Depression
+0,24,ENM,6,3.86,1,1,1,0,7,0,4,3,12,2,0,0,No Depression
+0,21,ENM,6,2.0,1,0,0,0,5,0,2,5,3,4,0,1,Depression
+0,19,ENM,6,3.08,0,1,1,0,5,0,4,2,7,5,1,1,Depression
+0,24,ENM,6,4.0,0,1,0,0,0,0,3,1,18,3,1,1,Depression
+0,24,BIT,1,2.41,0,1,1,0,0,0,3,5,5,4,1,1,Depression
+0,22,BIT,1,3.43,1,0,0,0,4,0,5,3,8,5,0,0,No Depression
+0,18,Marine science,4,2.79,1,0,0,0,0,0,3,5,7,4,0,1,Depression
+0,22,Marine science,4,3.71,1,0,1,0,7,0,1,3,12,2,0,0,No Depression
+0,21,Marine science,4,2.88,0,0,1,0,2,0,2,5,9,1,1,0,No Depression
+0,23,Marine science,4,2.0,0,0,0,0,1,0,2,1,2,5,1,1,Depression
+0,24,Engineering,3,2.0,0,0,1,0,6,0,3,3,1,2,1,0,No Depression
+0,19,KOE,1,3.0,1,1,0,0,7,0,4,1,9,2,0,0,No Depression
+0,25,BCS,3,3.91,1,0,0,0,2,0,1,2,14,5,0,1,Depression
+0,24,KOE,1,2.0,0,0,1,0,3,0,1,1,1,5,1,1,Depression
+0,18,BCS,3,4.0,0,0,1,0,5,0,3,2,19,2,1,1,Depression
+0,23,KOE,1,3.21,1,1,0,0,4,0,3,1,10,4,0,1,Depression
+0,24,BCS,3,2.0,0,0,0,0,1,0,3,2,2,2,1,1,Depression
+0,24,BCS,3,4.0,1,1,1,0,7,0,3,1,17,4,0,1,Depression
+0,25,BCS,3,2.39,1,0,0,0,7,0,1,1,5,4,0,1,Depression
+0,19,BCS,3,4.0,0,0,0,0,1,0,5,4,19,3,1,1,Depression
+0,20,Engineering,3,4.0,1,1,1,0,1,0,4,2,16,4,0,1,Depression
+0,24,BCS,2,2.63,1,1,0,0,5,0,4,3,3,5,0,0,No Depression
+0,20,BCS,2,3.75,1,0,0,0,2,0,1,5,12,5,0,0,No Depression
+0,18,BCS,2,2.47,0,0,0,0,3,0,3,5,5,5,1,1,Depression
+0,21,Banking Studies,3,4.0,1,1,1,0,1,0,3,2,17,1,0,0,No Depression
+0,24,Engineering,3,4.0,0,0,1,0,1,0,2,1,15,3,1,0,No Depression
+1,23,Engineering,1,2.76,0,0,1,0,3,0,2,1,8,1,1,0,No Depression
+1,18,Engineering,1,4.0,0,0,1,0,1,0,2,5,17,3,1,1,Depression
+1,25,Engineering,1,4.0,1,0,1,0,3,0,3,3,19,2,0,1,Depression
+0,25,BIT,2,4.0,1,1,1,1,1,1,5,4,14,4,0,1,Depression
+0,20,BIT,2,2.19,0,1,0,1,4,1,5,4,5,2,1,1,Depression
+0,21,BIT,2,2.85,1,1,0,1,1,1,4,3,8,3,0,1,Depression
+0,18,BCS,6,3.69,0,0,0,0,1,0,1,4,15,3,1,1,Depression
+0,25,BCS,6,2.0,1,1,0,0,5,0,2,2,2,3,0,1,Depression
+0,22,BCS,6,2.0,0,1,0,0,6,0,2,4,2,1,1,0,No Depression
+0,22,Business Administration,1,2.26,0,1,1,0,0,0,5,5,3,1,1,0,No Depression
+0,25,Business Administration,1,2.03,0,0,0,0,0,0,5,4,5,4,1,1,Depression
+0,19,Business Administration,1,3.22,1,0,0,0,5,0,3,3,10,2,0,0,No Depression
+1,18,BCS,4,4.0,0,0,0,0,0,0,4,5,18,3,1,1,Depression
+1,22,BCS,3,2.63,0,1,1,0,0,0,2,5,8,1,1,1,Depression
+1,21,BCS,3,2.0,1,1,1,0,4,0,2,5,1,1,0,0,No Depression
+1,25,BCS,4,3.3,1,1,0,0,3,0,5,1,8,5,0,1,Depression
+1,18,BCS,1,3.94,1,1,0,1,1,1,4,5,14,3,0,0,No Depression
+1,24,BCS,1,2.0,0,0,0,1,0,1,2,4,3,4,1,1,Depression
+1,25,BCS,1,4.0,0,1,0,1,7,1,1,1,13,4,1,0,No Depression
+1,25,BCS,1,4.0,0,0,0,1,4,1,4,4,19,3,1,1,Depression
+1,23,BCS,1,2.0,0,0,1,1,6,1,5,2,2,3,1,1,Depression
+1,18,BCS,1,3.56,0,0,1,1,4,1,1,3,12,3,1,1,Depression
+0,23,BIT,3,4.0,0,0,0,0,5,0,3,1,15,2,1,0,No Depression
+0,23,BIT,3,4.0,1,1,1,0,0,0,1,5,18,2,0,1,Depression
+0,18,Engineering,3,2.91,0,0,0,0,4,0,3,2,9,4,1,1,Depression
+0,18,Engineering,3,3.49,1,0,1,0,5,0,2,5,11,2,0,0,No Depression
+0,18,Law,2,4.0,1,1,1,0,0,0,1,3,11,5,0,0,No Depression
+0,22,Law,2,4.0,1,1,1,0,5,0,2,1,17,4,0,1,Depression
+0,23,Law,2,4.0,1,0,1,0,3,0,5,3,14,5,0,1,Depression
+0,23,BIT,3,2.3,1,0,0,0,1,0,4,3,4,5,0,1,Depression
+0,21,BIT,3,3.64,1,0,0,0,5,0,4,3,10,4,0,0,No Depression
+0,20,BIT,3,4.0,0,1,0,0,7,0,3,4,17,1,1,0,No Depression
+0,23,KIRKHS,3,4.0,1,0,0,0,0,0,2,2,19,2,0,1,Depression
+0,19,KIRKHS,3,2.0,1,1,0,0,4,0,2,2,5,2,0,1,Depression
+0,24,Engineering,1,2.34,0,0,1,1,7,1,4,1,6,4,1,1,Depression
+0,22,Engineering,1,3.36,1,0,0,1,5,1,3,2,8,5,0,1,Depression
+0,20,Engineering,1,2.0,0,1,0,1,7,1,5,4,2,5,1,1,Depression
+0,24,Engineering,1,3.12,0,1,1,1,1,1,4,3,8,2,1,0,No Depression
+0,22,Engineering,1,4.0,0,1,0,1,5,1,5,1,14,1,1,0,No Depression
+0,24,BIT,2,2.8,0,1,0,0,2,0,5,5,8,1,1,0,No Depression
+0,18,BIT,2,3.31,1,1,0,0,6,0,5,3,10,3,0,0,No Depression
+0,20,BIT,2,3.62,1,1,0,0,2,0,4,3,11,5,0,0,No Depression
+0,20,Usuluddin ,4,4.0,0,1,0,0,4,0,4,4,17,5,1,1,Depression
+0,22,Usuluddin ,4,4.0,1,0,0,0,2,0,1,5,15,5,0,1,Depression
+1,21,BIT,3,4.0,0,1,1,0,2,0,4,5,19,1,1,1,Depression
+1,21,BIT,3,4.0,0,1,1,0,7,0,5,1,19,3,1,1,Depression
+1,23,BIT,3,2.29,0,1,1,0,4,0,1,5,6,3,1,1,Depression
+1,19,TAASL,4,2.9,0,0,0,0,6,0,3,2,9,3,1,1,Depression
+1,18,TAASL,4,2.0,0,1,0,0,7,0,1,4,1,1,1,0,No Depression
+1,18,BCS,3,4.0,0,0,0,0,6,0,4,4,16,5,1,1,Depression
+1,18,BCS,3,4.0,0,0,1,0,5,0,3,3,18,3,1,1,Depression
+1,19,BCS,3,2.21,0,1,1,0,2,0,2,3,7,4,1,1,Depression
+1,21,BCS,3,3.09,1,0,0,0,2,0,1,5,8,5,0,1,Depression
+0,23,Engineering,3,2.0,1,1,0,0,3,0,2,4,3,3,0,1,Depression
+0,18,Engine,6,3.21,0,0,0,0,6,0,5,4,8,3,1,0,No Depression
+0,21,Engine,6,2.0,0,1,0,0,1,0,2,4,1,4,1,1,Depression
+0,24,Engine,6,4.0,1,1,1,0,1,0,4,2,15,5,0,1,Depression
+1,24,BCS,4,4.0,0,1,1,0,0,0,3,1,16,5,1,1,Depression
+1,22,BCS,4,3.03,1,0,1,0,4,0,4,1,6,5,0,1,Depression
+0,25,Engine,6,2.19,1,0,0,0,7,0,1,5,6,1,0,1,Depression
+0,25,BCS,5,4.0,1,0,0,0,3,0,3,5,17,1,0,0,No Depression
+0,24,BCS,5,2.72,1,1,0,0,1,0,4,3,7,3,0,1,Depression
+0,21,BCS,5,2.0,0,0,1,0,2,0,4,1,3,3,1,1,Depression
+0,22,BCS,5,2.3,1,0,1,0,6,0,5,3,6,1,0,1,Depression
+0,25,BCS,5,4.0,1,1,0,0,2,0,1,1,18,1,0,0,No Depression
+0,24,ALA,3,3.64,0,0,0,1,4,1,4,1,12,3,1,1,Depression
+0,24,ALA,3,4.0,0,1,0,1,0,1,2,1,18,4,1,1,Depression
+0,24,ALA,3,2.0,0,0,1,1,3,1,2,5,4,1,1,1,Depression
+0,24,ALA,3,2.04,1,1,1,1,3,1,5,1,3,5,0,1,Depression
+0,19,BCS,4,4.0,0,0,0,0,7,0,5,1,15,5,1,1,Depression
+0,23,BCS,4,2.0,0,1,0,0,1,0,1,5,1,4,1,0,No Depression
+0,18,BCS,4,2.87,1,0,1,0,1,0,4,3,5,4,0,0,No Depression
+0,21,BCS,4,2.0,1,1,1,0,4,0,1,4,4,2,0,1,Depression
+0,18,BCS,4,4.0,1,0,0,0,0,0,1,3,12,5,0,0,No Depression
+0,19,Biomedical science,5,2.16,0,0,0,0,2,0,3,1,4,5,1,1,Depression
+0,20,Biomedical science,5,4.0,1,1,1,0,0,0,2,4,15,2,0,0,No Depression
+0,25,BCS,3,2.54,0,1,0,1,2,1,4,3,5,5,1,1,Depression
+0,25,BCS,3,3.51,1,1,1,1,3,1,4,3,11,2,0,1,Depression
+0,21,BCS,3,4.0,1,1,0,1,2,1,4,5,17,1,0,0,No Depression
+0,25,BCS,3,2.0,0,1,1,1,5,1,3,1,1,5,1,1,Depression
+1,22,Kirkhs,2,2.0,0,1,1,0,2,0,3,1,2,1,1,0,No Depression
+1,21,Kirkhs,2,3.66,0,0,1,0,0,0,5,2,14,3,1,1,Depression
+0,20,BENL,2,2.0,1,1,0,0,0,0,3,1,4,1,0,1,Depression
+0,23,BENL,2,4.0,0,0,1,0,0,0,2,5,16,4,1,1,Depression
+0,20,BENL,2,4.0,0,0,0,0,4,0,4,2,19,4,1,1,Depression
+0,18,BCS,3,4.0,0,0,0,0,2,0,3,5,14,4,1,0,No Depression
+0,20,BCS,3,2.68,0,1,1,0,6,0,5,4,5,3,1,0,No Depression
+0,24,BCS,3,4.0,1,1,1,0,3,0,3,5,18,5,0,1,Depression
+0,23,BCS,3,3.46,1,0,0,0,5,0,2,5,13,1,0,0,No Depression
+0,20,BCS,3,3.45,0,0,1,0,7,0,1,2,10,5,1,0,No Depression
+0,19,BCS,3,2.41,1,0,0,0,0,0,3,1,8,3,0,1,Depression
+0,25,BCS,3,2.15,0,1,0,0,3,0,4,2,4,5,1,1,Depression
+0,23,Benl,3,4.0,0,0,0,0,4,0,2,5,16,5,1,1,Depression
+0,18,IT,2,4.0,0,0,1,0,2,0,3,4,15,4,1,1,Depression
+0,24,IT,2,2.42,1,0,0,0,3,0,4,3,4,3,0,1,Depression
+0,23,IT,2,4.0,1,1,0,0,7,0,5,1,17,2,0,0,No Depression
+0,21,IT,2,3.87,1,0,0,0,1,0,2,4,13,5,0,0,No Depression
+0,19,BCS,3,4.0,0,1,1,0,0,0,3,2,17,3,1,1,Depression
+0,23,CTS,0,3.4,0,1,0,0,5,0,3,4,12,4,1,1,Depression
+0,18,CTS,0,4.0,0,1,1,0,7,0,2,2,17,5,1,1,Depression
+0,24,CTS,0,3.29,0,1,0,0,7,0,5,3,8,4,1,0,No Depression
+0,24,engin,3,2.71,0,0,1,0,0,0,5,2,8,5,1,1,Depression
+0,23,engin,3,2.0,0,1,0,0,3,0,3,4,2,1,1,0,No Depression
+0,25,engin,3,4.0,0,0,0,0,0,0,2,2,16,4,1,1,Depression
+0,25,engin,3,2.0,1,1,0,0,7,0,4,4,1,4,0,1,Depression
+0,18,engin,3,2.75,1,1,0,0,1,0,1,5,6,4,0,0,No Depression
+0,21,Engine,3,2.0,1,1,0,0,0,0,2,2,1,4,0,1,Depression
+0,20,Econs,3,3.85,0,1,0,0,0,0,5,4,13,2,1,0,No Depression
+0,23,Econs,3,3.05,0,0,1,0,0,0,3,4,12,2,1,1,Depression
+0,18,KOE,2,4.0,0,1,0,0,3,0,5,1,18,5,1,1,Depression
+0,23,KOE,2,2.77,0,1,1,0,3,0,2,3,7,5,1,1,Depression
+0,24,KOE,2,4.0,0,1,1,0,3,0,4,2,17,5,1,1,Depression
+0,24,KOE,2,2.0,0,0,0,0,1,0,4,2,4,2,1,1,Depression
+0,22,KOE,2,3.65,0,1,1,0,2,0,5,2,13,2,1,0,No Depression
+0,19,KOE,2,3.7,0,0,0,0,1,0,1,4,12,5,1,0,No Depression
+0,25,KOE,2,2.66,1,1,0,0,0,0,4,5,5,3,0,0,No Depression
+0,18,KOE,2,2.0,0,1,1,0,0,0,1,2,2,1,1,0,No Depression
+0,22,KOE,2,4.0,1,1,1,0,1,0,5,5,15,2,0,0,No Depression
+1,19,MHSC,2,4.0,1,0,1,0,0,0,2,5,15,4,0,1,Depression
+1,23,MHSC,2,2.25,1,0,1,0,3,0,4,5,2,5,0,1,Depression
+1,22,MHSC,2,4.0,0,1,1,0,6,0,1,2,13,5,1,0,No Depression
+0,18,Malcom,3,4.0,1,0,0,0,3,0,5,5,13,5,0,0,No Depression
+0,18,Malcom,3,2.65,0,0,0,0,2,0,3,5,7,3,1,1,Depression
+0,18,Malcom,3,4.0,0,1,1,0,0,0,1,5,19,3,1,1,Depression
+0,25,Kop,6,3.91,0,1,1,0,3,0,3,5,14,1,1,0,No Depression
+0,23,Laws,2,2.29,0,1,1,0,0,0,5,2,6,1,1,1,Depression
+0,22,Laws,2,2.56,0,1,0,0,6,0,1,3,6,4,1,0,No Depression
+0,22,Laws,2,2.98,1,1,1,0,4,0,5,2,8,5,0,1,Depression
+0,25,Laws,2,2.0,0,0,0,0,4,0,2,3,3,4,1,1,Depression
+0,25,BIT,2,4.0,1,1,1,0,3,0,3,4,18,5,0,1,Depression
+1,24,Biomedical science,3,3.35,1,0,1,0,6,0,5,1,9,5,0,1,Depression
+1,24,BIT,2,3.13,0,1,0,0,4,0,4,5,9,5,1,1,Depression
+1,25,BIT,2,4.0,0,0,0,0,7,0,3,1,17,2,1,1,Depression
+1,18,BIT,2,4.0,0,1,1,0,6,0,1,5,17,4,1,1,Depression
+0,20,KOE,3,4.0,1,0,1,0,2,0,3,3,17,5,0,1,Depression
+0,18,Engineering,3,4.0,1,1,0,0,1,0,2,5,18,3,0,1,Depression
+0,25,Human Sciences ,1,4.0,1,0,0,0,5,0,2,5,19,3,0,1,Depression
+0,18,Human Sciences ,1,2.04,1,0,1,0,2,0,2,5,3,5,0,1,Depression
+0,23,Human Sciences ,1,4.0,0,0,0,0,7,0,3,2,17,1,1,0,No Depression
+0,25,Biotechnology,2,2.0,0,0,0,0,0,0,1,5,9,1,1,1,Depression
+0,20,Engineering,6,2.97,1,0,1,0,1,0,2,5,12,1,0,1,Depression
+0,19,Engineering,6,4.0,1,0,1,0,0,0,4,2,19,4,0,1,Depression
+0,25,Communication ,1,2.0,1,1,1,0,6,0,5,2,4,3,0,1,Depression
+0,20,Communication ,1,2.59,1,1,0,0,2,0,5,2,9,1,0,1,Depression
+0,20,Communication ,1,3.28,0,1,0,0,3,0,3,1,11,2,1,0,No Depression
+0,22,Communication ,1,4.0,0,0,0,0,5,0,2,1,15,1,1,0,No Depression
+0,19,Engineering,3,2.55,1,1,0,0,4,0,4,5,3,5,0,0,No Depression
+0,19,Pendidikan Islam ,1,2.0,0,0,0,0,7,0,1,5,3,1,1,0,No Depression
+0,23,Pendidikan Islam ,1,4.0,1,1,1,0,7,0,3,3,16,2,0,0,No Depression
+0,23,Engineering,3,4.0,1,1,1,0,4,0,4,4,17,2,0,1,Depression
+0,22,Diploma Nursing,4,2.73,1,0,1,0,3,0,3,2,6,4,0,1,Depression
+0,22,Diploma Nursing,4,4.0,0,1,0,0,3,0,3,1,19,5,1,1,Depression
+0,19,Pendidikan Islam ,1,3.49,0,1,0,0,0,0,2,2,11,3,1,0,No Depression
+1,24,Radiography,3,4.0,0,1,1,0,2,0,3,4,19,5,1,1,Depression
+1,20,Radiography,3,2.0,1,0,0,0,6,0,3,3,2,1,0,0,No Depression
+1,18,Radiography,3,4.0,0,0,0,0,1,0,4,5,16,2,1,0,No Depression
+0,20,psychology,3,2.75,0,1,1,1,4,1,5,5,4,5,1,1,Depression
+0,21,psychology,3,2.08,1,1,1,1,4,1,4,1,2,4,0,1,Depression
+0,25,Fiqh fatwa ,2,2.0,1,1,0,0,2,0,1,5,2,1,0,0,No Depression
+0,20,Fiqh fatwa ,2,2.26,0,1,0,0,0,0,1,1,6,2,1,1,Depression
+0,19,Fiqh fatwa ,2,4.0,1,1,0,0,6,0,5,1,19,3,0,1,Depression
+0,19,psychology,3,4.0,1,1,1,0,7,0,1,2,16,2,0,0,No Depression
+1,23,BIT,3,2.0,0,0,1,0,6,0,4,4,3,4,1,1,Depression
+1,19,BIT,3,4.0,1,1,0,0,1,0,4,2,19,4,0,1,Depression
+1,18,BIT,3,2.0,0,0,0,0,6,0,5,1,2,5,1,1,Depression
+1,22,BIT,3,2.34,1,1,0,0,6,0,4,5,4,5,0,1,Depression
+1,19,Engineering,1,2.78,1,1,0,0,2,0,4,2,8,2,0,0,No Depression
+0,23,DIPLOMA TESL,2,3.28,0,1,1,0,1,0,5,5,8,4,1,0,No Depression
+0,20,DIPLOMA TESL,2,2.39,1,0,1,0,3,0,1,1,7,3,0,1,Depression
+1,24,Koe,1,4.0,1,0,1,0,1,0,4,2,12,3,0,0,No Depression
+1,25,Koe,1,2.0,0,0,1,0,0,0,5,3,1,4,1,1,Depression
+1,23,Koe,1,4.0,1,0,0,0,4,0,5,2,19,3,0,1,Depression
+0,19,KOE,4,3.46,1,0,0,0,1,0,5,1,12,1,0,0,No Depression
+0,18,KOE,4,3.55,0,0,0,0,2,0,2,5,15,3,1,1,Depression
+0,24,Fiqh,2,2.0,0,0,1,0,5,0,3,3,1,4,1,1,Depression
+0,25,Fiqh,2,3.29,1,1,0,0,4,0,4,5,12,3,0,1,Depression
+0,21,Fiqh,2,4.0,0,1,0,0,4,0,3,5,19,5,1,1,Depression
+0,20,Fiqh,2,3.92,0,0,1,0,7,0,3,4,18,1,1,1,Depression
+0,22,Fiqh,2,4.0,0,1,0,0,3,0,2,3,15,5,1,0,No Depression
+0,25,Islamic Education,3,4.0,1,0,1,0,4,0,5,1,16,1,0,0,No Depression
+0,21,BCS,3,2.71,0,1,0,0,1,0,3,3,5,5,1,1,Depression
+0,21,BCS,3,3.98,0,0,1,0,2,0,2,1,12,5,1,0,No Depression
+1,19,Engineering,1,4.0,1,1,0,0,2,0,2,4,19,5,0,1,Depression
+1,21,Engineering,1,2.22,0,0,1,0,6,0,2,3,5,3,1,1,Depression
+1,24,Engineering,1,2.2,0,1,0,0,4,0,2,2,3,4,1,1,Depression
+1,18,Engineering,1,4.0,0,1,0,0,3,0,1,5,19,5,1,1,Depression
+0,19,Nursing ,2,3.4,1,0,1,0,5,0,2,2,12,4,0,1,Depression
+0,22,Nursing ,2,4.0,1,1,1,0,6,0,3,3,14,4,0,0,No Depression
+0,25,Nursing ,2,3.24,0,0,1,0,3,0,5,5,10,5,1,1,Depression
+0,18,Nursing ,2,3.61,0,0,0,0,0,0,1,1,15,3,1,1,Depression
+0,20,Nursing ,2,2.0,0,0,1,0,7,0,2,1,1,5,1,1,Depression
+0,19,Nursing ,2,2.0,1,0,1,0,7,0,3,5,3,3,0,1,Depression
+0,23,Pendidikan Islam,6,3.48,0,0,1,0,6,0,1,1,12,2,1,0,No Depression
+1,21,Biomedical science,1,3.64,1,0,0,0,3,0,1,5,13,5,0,1,Depression
+1,23,Biomedical science,1,4.0,1,1,1,0,0,0,5,3,18,3,0,1,Depression
+0,25,Engineering,3,3.57,1,1,1,0,7,0,2,5,11,3,0,0,No Depression
+0,22,Engineering,3,4.0,0,1,0,0,6,0,1,3,14,1,1,0,No Depression
+0,20,Engineering,3,4.0,0,1,0,0,2,0,1,1,17,5,1,1,Depression
+0,22,Engineering,3,2.38,1,1,1,0,4,0,2,2,6,2,0,1,Depression
+1,23,Islamic education,4,2.86,1,1,1,0,1,0,3,4,8,4,0,1,Depression
+1,21,Islamic education,4,4.0,1,1,0,0,3,0,5,5,15,4,0,1,Depression
+1,24,Islamic education,4,2.54,0,1,0,0,3,0,2,1,8,4,1,1,Depression
+1,20,Islamic education,4,4.0,0,1,1,0,2,0,3,5,15,1,1,0,No Depression
+1,24,BIT,0,2.96,0,0,0,0,3,0,5,3,8,3,1,1,Depression
+1,22,BIT,0,2.64,1,0,1,0,4,0,3,3,9,1,0,1,Depression
+1,23,BIT,0,4.0,1,1,0,0,7,0,2,4,19,5,0,1,Depression
+1,24,Mathemathics,6,2.12,0,0,0,0,4,0,5,5,5,3,1,1,Depression
+1,18,Mathemathics,6,2.27,0,0,1,0,3,0,3,3,7,1,1,1,Depression
+1,19,Engineering,1,4.0,0,0,1,0,7,0,4,3,19,1,1,1,Depression
+0,19,Pendidikan islam,4,2.0,1,0,0,0,5,0,4,2,2,5,0,1,Depression
+0,24,Pendidikan islam,4,3.01,1,1,1,0,4,0,4,4,7,4,0,1,Depression
+0,22,Pendidikan islam,4,2.89,1,1,0,0,4,0,2,5,9,1,0,0,No Depression
+0,18,Pendidikan islam,4,4.0,0,0,1,0,3,0,2,1,17,5,1,1,Depression
+0,24,BCS,3,2.79,0,0,0,0,3,0,3,3,8,3,1,1,Depression
+0,25,BCS,3,2.0,1,1,0,0,3,0,3,5,1,4,0,1,Depression
+0,24,BCS,3,2.0,1,0,0,0,2,0,3,2,4,1,0,1,Depression
+0,24,Human Resources,1,2.19,0,1,0,0,1,0,2,3,4,2,1,0,No Depression
+0,25,Human Resources,1,4.0,0,1,1,0,5,0,3,4,19,4,1,1,Depression
+0,18,Human Resources,1,4.0,0,0,1,0,7,0,3,4,19,3,1,1,Depression
+0,25,Human Resources,1,2.64,0,1,1,0,6,0,5,1,9,1,1,1,Depression
+1,20,Irkhs,3,3.06,0,1,0,0,2,0,4,2,8,5,1,1,Depression
+0,20,Engineering,2,2.93,1,1,0,0,4,0,4,4,8,3,0,0,No Depression
+1,20,Irkhs,3,4.0,1,0,0,0,3,0,5,2,17,3,0,1,Depression
+1,21,Irkhs,3,2.0,0,1,0,0,0,0,2,1,1,3,1,0,No Depression
+0,18,BCS,3,3.95,1,0,0,0,2,0,1,3,12,3,0,0,No Depression
+0,19,BCS,3,2.0,0,1,1,0,6,0,2,5,1,5,1,1,Depression
+1,21,Engineering,3,4.0,1,0,1,0,5,0,1,4,12,5,0,0,No Depression
+1,22,Engineering,3,2.0,0,0,0,0,6,0,5,3,1,2,1,0,No Depression
+1,20,BCS,2,4.0,1,0,1,0,6,0,3,2,16,1,0,0,No Depression
+1,20,BCS,2,4.0,1,1,1,0,6,0,1,1,17,1,0,0,No Depression
+1,18,BCS,2,2.1,0,1,1,0,6,0,2,4,5,1,1,1,Depression
+0,18,Accounting ,5,3.75,0,1,0,0,3,0,2,2,14,2,1,0,No Depression
+0,22,Accounting ,5,4.0,0,0,1,0,7,0,4,3,16,4,1,1,Depression
+0,24,Accounting ,5,4.0,0,1,1,0,1,0,1,5,17,4,1,1,Depression
+0,18,Accounting ,5,2.17,0,0,0,0,1,0,4,1,5,5,1,1,Depression
+0,25,Accounting ,5,2.61,1,1,1,0,4,0,1,4,5,5,0,1,Depression
+0,24,ENM,6,4.0,1,1,0,0,5,0,3,5,17,2,0,0,No Depression
+0,20,BIT,1,4.0,1,1,1,0,3,0,2,3,18,4,0,1,Depression
+0,19,BIT,1,3.6,0,1,1,0,4,0,4,5,9,4,1,0,No Depression
+0,22,BIT,1,4.0,0,0,0,0,5,0,2,3,15,3,1,0,No Depression
+0,18,BIT,1,2.99,1,1,1,0,6,0,1,2,6,2,0,0,No Depression
+0,25,Marine science,4,2.72,0,1,0,0,7,0,4,5,7,3,1,1,Depression
+0,23,Marine science,4,4.0,0,0,0,0,1,0,2,4,19,3,1,1,Depression
+0,24,Marine science,4,2.86,1,0,0,0,7,0,4,5,6,3,0,0,No Depression
+0,19,Engineering,3,4.0,0,0,1,0,5,0,2,5,16,2,1,0,No Depression
+0,18,Engineering,3,2.4,0,1,0,0,0,0,5,5,5,4,1,1,Depression
+0,21,Engineering,3,2.53,0,0,0,0,6,0,2,5,10,2,1,1,Depression
+0,25,Engineering,3,2.33,0,1,0,0,3,0,2,3,6,3,1,1,Depression
+0,23,Engineering,3,2.0,1,1,1,0,1,0,3,3,2,1,0,0,No Depression
+0,18,KOE,1,3.95,0,0,0,0,4,0,4,4,15,2,1,0,No Depression
+0,24,BCS,3,4.0,0,0,0,0,1,0,5,5,15,5,1,1,Depression
+0,23,BCS,3,4.0,1,0,0,0,3,0,1,4,12,3,0,0,No Depression
+0,24,KOE,1,2.0,0,1,0,0,4,0,1,1,1,2,1,0,No Depression
+0,25,Engineering,3,4.0,0,0,1,0,5,0,3,2,19,5,1,1,Depression
+0,22,Engineering,3,2.1,1,1,1,0,7,0,2,4,1,3,0,0,No Depression
+0,23,BCS,2,3.84,1,1,1,0,3,0,5,4,12,2,0,0,No Depression
+0,18,BCS,2,3.44,1,1,1,0,5,0,4,2,10,2,0,0,No Depression
+0,24,BCS,2,2.0,1,0,0,0,4,0,5,2,3,1,0,1,Depression
+0,18,Banking Studies,3,2.49,0,1,0,0,7,0,3,4,5,4,1,0,No Depression
+0,18,Engineering,3,2.75,0,0,0,0,4,0,4,4,9,2,1,1,Depression
+0,21,Engineering,3,4.0,1,0,0,0,4,0,4,3,14,2,0,0,No Depression
+1,25,Engineering,1,2.0,1,0,0,0,0,0,2,3,3,1,0,1,Depression
+1,23,Engineering,1,2.81,0,1,1,0,0,0,1,1,9,1,1,0,No Depression
+1,25,Engineering,1,2.76,1,0,1,0,0,0,1,4,8,1,0,0,No Depression
+0,23,BIT,2,2.45,1,0,0,1,3,1,5,2,4,4,0,1,Depression
+0,24,BCS,6,3.67,0,0,0,0,7,0,5,2,11,3,1,0,No Depression
+0,20,BCS,6,2.78,1,1,1,0,7,0,5,3,7,2,0,0,No Depression
+0,24,BCS,6,2.22,0,0,1,0,3,0,2,2,5,4,1,1,Depression
+0,23,Business Administration,1,2.18,0,0,0,0,4,0,2,1,7,2,1,1,Depression
+0,19,Business Administration,1,2.0,1,1,0,0,7,0,5,5,3,2,0,0,No Depression
+0,18,Business Administration,1,3.29,1,0,0,0,1,0,2,4,8,4,0,0,No Depression
+1,19,BCS,3,2.0,0,0,1,0,3,0,2,5,4,2,1,1,Depression
+1,20,BCS,4,3.05,1,1,0,0,5,0,2,5,8,4,0,0,No Depression
+1,19,BCS,1,4.0,0,1,1,1,1,1,5,5,16,1,1,0,No Depression
+1,18,BCS,1,3.28,1,0,0,1,7,1,3,3,8,2,0,0,No Depression
+1,25,BCS,1,2.22,0,1,0,1,3,1,4,3,6,1,1,1,Depression
+1,23,BCS,1,4.0,0,0,0,1,4,1,3,2,17,2,1,1,Depression
+0,19,BIT,3,4.0,1,1,1,0,5,0,3,1,18,2,0,1,Depression
+0,25,BIT,3,4.0,0,0,1,0,7,0,4,1,16,1,1,0,No Depression
+0,20,BIT,3,4.0,0,0,1,0,0,0,1,3,18,5,1,1,Depression
+0,23,Law,2,3.36,1,1,1,0,4,0,1,3,8,3,0,0,No Depression
+0,25,Law,2,2.0,0,0,0,0,6,0,2,1,1,2,1,0,No Depression
+0,23,Law,2,3.59,0,0,1,0,3,0,5,3,11,2,1,0,No Depression
+0,21,Law,2,2.0,1,1,0,0,4,0,5,2,4,3,0,1,Depression
+0,19,Law,2,2.0,1,0,0,0,4,0,3,2,2,1,0,0,No Depression
+0,19,BIT,3,4.0,1,1,0,0,3,0,2,3,13,5,0,0,No Depression
+0,22,BIT,3,2.17,1,1,0,0,1,0,2,3,4,3,0,1,Depression
+0,19,BIT,3,4.0,0,0,1,0,1,0,4,2,15,4,1,1,Depression
+0,22,BIT,3,3.51,0,1,0,0,3,0,4,3,11,4,1,0,No Depression
+0,18,BIT,3,3.85,0,1,0,0,5,0,3,4,14,5,1,0,No Depression
+0,18,KIRKHS,3,2.0,0,0,0,0,0,0,1,2,7,1,1,1,Depression
+0,23,KIRKHS,3,2.12,1,0,1,0,5,0,3,2,4,2,0,1,Depression
+0,23,KIRKHS,3,3.91,1,1,0,0,7,0,3,1,12,4,0,0,No Depression
+0,24,KIRKHS,3,2.0,1,0,0,0,0,0,4,4,4,2,0,1,Depression
+0,19,KIRKHS,3,4.0,1,0,0,0,3,0,3,2,16,3,0,0,No Depression
+0,24,Engineering,1,3.69,1,0,1,1,2,1,1,3,12,2,0,0,No Depression
+0,23,Engineering,1,3.88,0,1,1,1,6,1,1,4,16,1,1,0,No Depression
+0,19,Engineering,1,2.29,0,0,0,1,7,1,4,4,5,4,1,1,Depression
+0,18,Engineering,6,3.15,0,1,1,0,7,0,5,1,8,4,1,1,Depression
+0,21,Engineering,6,2.17,1,0,1,0,0,0,3,3,2,3,0,1,Depression
+0,18,Usuluddin ,4,3.8,0,1,0,0,5,0,4,3,11,4,1,0,No Depression
+0,18,Usuluddin ,4,4.0,1,0,1,0,4,0,5,3,19,1,0,1,Depression
+0,20,Usuluddin ,4,2.56,1,1,1,0,1,0,1,1,4,5,0,1,Depression
+0,25,Usuluddin ,4,4.0,1,1,0,0,5,0,3,5,17,2,0,0,No Depression
+1,18,BIT,3,3.76,1,1,0,0,2,0,3,5,11,5,0,0,No Depression
+1,23,TAASL,4,3.0,0,1,1,0,7,0,5,3,10,2,1,1,Depression
+1,22,BCS,3,3.06,1,0,0,0,0,0,3,4,8,5,0,1,Depression
+0,19,Engineering,3,4.0,0,1,0,0,7,0,1,1,18,4,1,1,Depression
+0,23,Engineering,3,4.0,1,0,1,0,3,0,5,4,14,3,0,0,No Depression
+0,19,Engineering,3,2.0,0,1,1,0,3,0,4,2,2,1,1,0,No Depression
+0,24,Engineering,3,4.0,0,1,0,0,0,0,3,1,18,2,1,1,Depression
+0,23,Engineering,3,2.0,0,0,0,0,1,0,2,5,1,5,1,1,Depression
+0,20,Engineering,3,3.45,0,1,1,0,3,0,1,5,10,3,1,0,No Depression
+0,25,Engineering,3,3.26,1,1,1,0,6,0,3,1,8,5,0,1,Depression
+1,19,BCS,4,4.0,1,0,0,0,5,0,4,4,14,2,0,0,No Depression
+0,18,Engine,6,2.0,1,0,0,0,0,0,1,1,3,2,0,1,Depression
+1,22,BCS,4,2.86,1,0,0,0,0,0,4,1,8,1,0,0,No Depression
+0,24,BCS,5,2.0,0,0,1,0,5,0,5,4,2,1,1,1,Depression
+0,25,BCS,5,2.69,1,0,0,0,7,0,1,5,7,4,0,1,Depression
+0,20,BCS,5,4.0,1,0,0,0,3,0,4,1,17,1,0,0,No Depression
+0,24,BCS,5,3.23,1,0,0,0,0,0,1,2,7,5,0,0,No Depression
+0,18,ALA,3,4.0,0,1,0,1,2,1,4,5,16,4,1,1,Depression
+0,18,BCS,4,3.72,0,1,0,0,5,0,3,2,10,5,1,0,No Depression
+0,18,BCS,4,4.0,1,0,0,0,5,0,3,1,16,2,0,0,No Depression
+0,20,Biomedical science,5,2.35,0,1,0,0,3,0,3,5,5,4,1,1,Depression
+0,20,koe,5,4.0,1,1,0,0,0,0,2,4,17,2,0,0,No Depression
+1,20,BCS,3,4.0,0,1,1,0,3,0,5,3,18,2,1,1,Depression
+1,18,BCS,3,4.0,1,0,0,0,4,0,5,5,13,4,0,0,No Depression
+1,23,Kirkhs,2,3.18,0,0,0,0,7,0,3,4,10,4,1,1,Depression
+1,21,Kirkhs,2,3.87,1,1,0,0,7,0,4,5,13,2,0,0,No Depression
+1,20,Kirkhs,2,4.0,0,1,0,0,3,0,1,2,19,3,1,1,Depression
+1,20,Kirkhs,2,3.43,1,0,0,0,2,0,2,3,12,2,0,0,No Depression
+1,25,Kirkhs,2,4.0,0,1,1,0,5,0,5,4,19,5,1,1,Depression
+1,25,Kirkhs,2,4.0,1,1,0,0,7,0,2,4,11,4,0,0,No Depression
+0,25,BENL,2,4.0,0,0,0,0,7,0,4,2,17,2,1,1,Depression
+0,23,BENL,2,4.0,1,1,1,0,6,0,2,1,17,5,0,1,Depression
+0,19,BENL,2,2.0,0,1,1,0,7,0,1,2,1,5,1,1,Depression
+0,21,BCS,3,2.98,0,0,1,0,5,0,4,1,9,4,1,1,Depression
+0,24,BCS,3,3.59,0,0,0,0,7,0,1,2,12,2,1,0,No Depression
+0,22,Benl,3,2.29,1,0,1,0,2,0,2,2,7,1,0,1,Depression
+0,21,IT,2,4.0,0,1,0,0,4,0,4,4,14,2,1,0,No Depression
+0,19,IT,2,4.0,1,0,0,0,5,0,3,3,15,5,0,1,Depression
+0,18,Benl,3,2.0,1,0,0,0,3,0,1,3,1,3,0,0,No Depression
+0,20,Benl,3,2.0,0,0,0,0,7,0,4,3,2,3,1,1,Depression
+0,22,Benl,3,3.72,0,0,1,0,3,0,5,5,14,1,1,0,No Depression
+0,25,BCS,3,2.0,1,1,0,0,7,0,2,1,2,4,0,1,Depression
+0,19,BCS,3,2.1,0,0,1,0,7,0,2,2,5,3,1,1,Depression
+0,25,BCS,3,4.0,0,1,0,0,6,0,3,3,15,5,1,1,Depression
+0,18,CTS,0,4.0,0,1,1,0,7,0,1,4,15,5,1,0,No Depression
+0,25,CTS,0,3.32,0,1,0,0,7,0,3,3,14,1,1,0,No Depression
+0,19,engin,3,3.75,1,1,1,0,5,0,5,3,12,3,0,0,No Depression
+0,24,Engine,3,4.0,0,0,0,0,6,0,5,2,16,4,1,1,Depression
+0,23,Econs,3,4.0,1,1,0,0,1,0,2,1,13,2,0,0,No Depression
+0,25,Econs,3,2.0,0,1,1,0,2,0,1,5,1,2,1,0,No Depression
+0,18,Econs,3,2.35,0,1,1,0,2,0,4,2,5,4,1,1,Depression
+0,24,KOE,2,2.56,0,1,1,0,4,0,1,5,6,4,1,1,Depression
+0,20,KOE,2,4.0,1,0,0,0,2,0,4,5,19,3,0,1,Depression
+0,21,Malcom,3,4.0,0,1,1,0,5,0,2,1,15,4,1,0,No Depression
+0,24,Malcom,3,4.0,1,0,1,0,7,0,4,4,13,5,0,1,Depression
+0,20,Malcom,3,4.0,1,0,0,0,5,0,1,2,19,2,0,1,Depression
+0,24,Kop,6,2.87,0,1,0,0,5,0,5,1,9,3,1,1,Depression
+0,19,Kop,6,2.0,0,0,1,0,4,0,1,2,5,1,1,1,Depression
+0,20,Kop,6,2.0,0,0,1,0,7,0,5,4,2,3,1,1,Depression
+0,25,Kop,6,2.74,0,1,0,0,5,0,3,2,9,2,1,1,Depression
+0,20,Biomedical science,3,3.57,1,0,1,0,6,0,2,3,11,4,0,0,No Depression
+0,20,Biomedical science,3,4.0,1,1,0,0,2,0,4,4,15,5,0,1,Depression
+0,19,Biomedical science,3,4.0,1,0,1,0,3,0,1,3,13,5,0,0,No Depression
+0,25,Laws,2,3.93,0,1,1,0,5,0,3,5,13,3,1,0,No Depression
+0,21,BIT,2,4.0,1,0,0,0,7,0,3,3,17,4,0,1,Depression
+0,21,BIT,2,2.37,1,0,0,0,2,0,3,5,3,4,0,0,No Depression
+0,20,BIT,2,2.45,0,0,1,0,7,0,4,3,5,3,1,1,Depression
+1,18,Biomedical science,3,3.01,0,0,0,0,1,0,3,1,7,3,1,0,No Depression
+1,20,BIT,2,2.0,0,0,1,0,0,0,2,1,1,5,1,1,Depression
+1,24,BIT,2,2.0,0,0,1,0,6,0,5,3,1,4,1,1,Depression
+0,24,KOE,3,2.0,0,1,1,0,1,0,2,2,1,3,1,1,Depression
+0,23,KOE,3,2.32,0,1,0,0,1,0,1,5,6,5,1,1,Depression
+0,25,KOE,3,2.23,1,0,1,0,3,0,3,4,7,2,0,1,Depression
+0,24,Engineering,3,4.0,0,1,1,0,0,0,3,2,19,5,1,1,Depression
+0,18,Engineering,3,2.0,1,0,1,0,5,0,2,4,1,3,0,0,No Depression
+0,22,Engineering,3,3.42,1,1,1,0,4,0,2,3,9,5,0,0,No Depression
+0,20,Engineering,3,4.0,0,1,0,0,6,0,4,3,18,5,1,1,Depression
+0,20,Engineering,3,4.0,1,0,1,0,6,0,2,4,15,5,0,1,Depression
+0,23,Human Sciences ,1,3.49,0,1,1,0,0,0,1,5,13,3,1,0,No Depression
+0,22,Human Sciences ,1,3.7,1,0,1,0,5,0,5,4,9,4,0,0,No Depression
+0,24,Human Sciences ,1,4.0,1,1,1,0,3,0,5,2,12,5,0,0,No Depression
+0,20,Biotechnology,2,2.35,1,0,1,0,6,0,2,5,6,1,0,0,No Depression
+0,18,Engineering,6,3.17,0,0,1,0,4,0,1,1,11,2,1,0,No Depression
+0,18,Engineering,6,3.65,0,0,1,0,1,0,3,5,13,5,1,1,Depression
+0,18,Engineering,6,3.29,1,1,0,0,0,0,5,5,7,5,0,0,No Depression
+0,20,Engineering,6,2.0,1,0,1,0,6,0,1,5,1,2,0,0,No Depression
+0,19,Engineering,6,2.93,0,0,0,0,6,0,2,3,7,4,1,0,No Depression
+0,25,Communication ,1,2.38,0,1,0,0,2,0,3,3,6,2,1,1,Depression
+0,21,Communication ,1,2.0,0,0,1,0,3,0,2,5,3,2,1,1,Depression
+0,25,Communication ,1,4.0,0,0,1,0,4,0,2,3,18,4,1,1,Depression
+0,20,Engineering,3,3.37,0,1,0,0,6,0,1,4,11,4,1,0,No Depression
+0,18,Engineering,3,2.0,0,1,0,0,6,0,3,5,5,1,1,0,No Depression
+0,25,Diploma Nursing,4,3.32,0,0,0,0,4,0,1,5,9,4,1,0,No Depression
+0,23,Engineering,3,3.8,1,0,0,0,7,0,5,3,13,1,0,0,No Depression
+0,18,Engineering,3,2.0,1,1,0,0,7,0,5,1,2,2,0,0,No Depression
+0,22,Pendidikan Islam ,1,3.11,1,1,1,0,6,0,3,1,6,3,0,0,No Depression
+0,23,Diploma Nursing,4,2.0,1,1,1,0,4,0,2,5,1,2,0,0,No Depression
+0,23,Engineering,3,2.0,0,0,0,0,5,0,2,4,1,3,1,0,No Depression
+0,25,Pendidikan Islam ,1,4.0,1,0,1,0,7,0,3,4,17,4,0,1,Depression
+0,19,Pendidikan Islam ,1,2.0,0,0,1,0,4,0,4,4,1,1,1,0,No Depression
+1,25,Radiography,3,2.0,1,0,0,0,0,0,5,3,6,1,0,1,Depression
+1,18,Radiography,3,2.76,0,1,1,0,4,0,4,2,8,1,1,0,No Depression
+0,18,psychology,3,2.0,1,1,0,1,2,1,4,5,5,1,0,1,Depression
+0,19,psychology,3,2.12,0,1,0,1,3,1,3,3,5,4,1,1,Depression
+0,21,psychology,3,2.38,1,1,0,1,3,1,3,5,4,5,0,1,Depression
+0,18,psychology,3,4.0,0,0,1,1,1,1,5,1,17,1,1,1,Depression
+0,24,Fiqh fatwa ,2,4.0,1,1,1,0,1,0,3,4,15,4,0,1,Depression
+0,23,Fiqh fatwa ,2,2.56,1,1,1,0,4,0,1,5,2,3,0,0,No Depression
+0,18,psychology,3,3.22,1,1,1,0,0,0,5,5,7,5,0,0,No Depression
+0,19,psychology,3,2.0,1,0,0,0,7,0,5,2,3,1,0,0,No Depression
+0,20,psychology,3,4.0,1,0,1,0,0,0,1,5,19,2,0,1,Depression
+0,25,psychology,3,2.37,0,1,0,0,2,0,1,3,7,5,1,1,Depression
+1,21,BIT,3,4.0,0,1,1,0,0,0,2,3,19,2,1,1,Depression
+1,24,Engineering,1,2.95,0,0,1,0,1,0,1,5,7,4,1,1,Depression
+1,21,Engineering,1,3.71,0,0,1,0,1,0,4,4,12,3,1,0,No Depression
+0,21,DIPLOMA TESL,2,3.79,1,1,0,0,5,0,1,4,12,2,0,0,No Depression
+0,19,DIPLOMA TESL,2,4.0,1,0,1,0,7,0,4,5,18,1,0,0,No Depression
+0,21,DIPLOMA TESL,2,2.0,1,0,0,0,3,0,4,1,4,1,0,1,Depression
+0,24,DIPLOMA TESL,2,2.07,1,1,0,0,1,0,3,4,3,4,0,1,Depression
+1,18,Koe,1,3.34,0,1,0,0,3,0,2,2,8,4,1,0,No Depression
+1,23,Koe,1,2.88,0,0,0,0,3,0,2,3,10,2,1,1,Depression
+1,21,Koe,1,2.65,0,0,0,0,1,0,5,5,3,5,1,1,Depression
+1,25,Koe,1,3.8,0,0,0,0,3,0,1,2,12,5,1,0,No Depression
+0,23,KOE,4,4.0,0,0,0,0,4,0,1,2,16,5,1,1,Depression
+0,19,KOE,4,2.51,1,1,1,0,0,0,5,3,3,5,0,1,Depression
+0,21,BENL,3,2.66,1,1,0,0,7,0,2,1,7,2,0,0,No Depression
+0,19,BENL,3,4.0,0,1,1,0,1,0,1,1,18,3,1,1,Depression
+0,21,Fiqh,2,4.0,0,0,1,0,3,0,3,4,17,5,1,1,Depression
+0,20,Islamic Education,3,3.04,0,0,0,0,4,0,5,2,10,1,1,0,No Depression
+0,24,BCS,3,2.51,0,0,0,0,6,0,5,5,8,4,1,1,Depression
+0,19,BCS,3,3.59,1,1,0,0,4,0,4,4,13,2,0,0,No Depression
+0,19,BCS,3,4.0,1,0,1,0,6,0,1,3,17,3,0,1,Depression
+1,23,Engineering,1,4.0,0,1,1,0,4,0,3,2,12,5,1,0,No Depression
+1,22,Engineering,1,4.0,1,1,1,0,0,0,1,3,12,5,0,0,No Depression
+0,21,Nursing ,2,3.19,1,0,1,0,3,0,3,5,7,1,0,0,No Depression
+0,23,Pendidikan Islam,6,4.0,1,0,1,0,1,0,4,3,13,5,0,1,Depression
+0,25,Pendidikan Islam,6,2.0,0,1,1,0,1,0,1,3,4,2,1,1,Depression
+0,22,Pendidikan Islam,6,3.92,1,0,1,0,3,0,3,4,14,1,0,0,No Depression
+1,24,Biomedical science,1,2.17,0,0,1,0,7,0,1,5,7,5,1,1,Depression
+1,24,Biomedical science,1,3.24,0,0,0,0,6,0,4,1,9,5,1,1,Depression
+1,19,Biomedical science,1,2.35,1,1,0,0,3,0,1,1,3,4,0,0,No Depression
+1,23,Biomedical science,1,3.46,1,0,1,0,4,0,5,1,10,1,0,0,No Depression
+1,25,Islamic education,4,4.0,1,1,0,0,2,0,1,1,17,3,0,1,Depression
+1,19,BIT,0,3.63,1,1,1,0,4,0,1,2,11,3,0,0,No Depression
+1,21,BIT,0,3.06,0,0,0,0,7,0,2,4,12,2,1,1,Depression
+0,19,Laws,5,4.0,0,0,0,0,6,0,5,2,12,4,1,0,No Depression
+0,18,Laws,5,4.0,0,0,1,0,0,0,4,4,16,3,1,1,Depression
+1,25,Mathemathics,6,3.6,1,1,0,0,1,0,1,2,13,1,0,0,No Depression
+1,22,Mathemathics,6,4.0,1,1,0,0,0,0,3,4,13,3,0,0,No Depression
+1,20,Mathemathics,6,3.88,1,0,0,0,5,0,1,1,9,4,0,0,No Depression
+0,22,BCS,3,3.48,1,1,0,0,3,0,1,3,10,2,0,0,No Depression
+0,24,Engineering,2,2.0,1,0,0,0,6,0,4,4,2,2,0,1,Depression
+0,21,Engineering,2,3.09,1,0,0,0,7,0,2,2,4,5,0,0,No Depression
+0,20,Psychology,3,4.0,1,1,0,0,0,0,5,2,13,5,0,0,No Depression
+0,23,Psychology,3,2.0,0,1,1,0,6,0,5,5,3,1,1,1,Depression
+0,22,Psychology,3,4.0,1,0,1,0,4,0,4,3,18,4,0,1,Depression
+0,19,Engineering,2,3.93,1,0,1,0,5,0,1,4,13,4,0,0,No Depression
+0,18,Psychology,3,3.54,1,0,1,0,5,0,5,2,9,4,0,0,No Depression
+0,18,Engineering,2,3.56,1,0,0,0,2,0,4,4,12,2,0,0,No Depression
+0,18,Engineering,2,3.9,0,0,0,0,1,0,3,1,15,4,1,1,Depression
+0,20,Engineering,2,4.0,1,1,1,0,2,0,1,2,13,5,0,0,No Depression
+0,19,Psychology,3,4.0,0,0,1,0,3,0,3,3,19,5,1,1,Depression
+0,25,Psychology,3,3.39,1,0,1,0,3,0,5,5,8,4,0,0,No Depression
+1,20,Irkhs,3,3.94,1,1,1,0,0,0,4,1,9,5,0,0,No Depression
+0,18,BCS,3,4.0,1,1,0,0,5,0,5,2,15,3,0,0,No Depression
+1,24,Engineering,3,4.0,0,1,0,0,2,0,5,2,15,2,1,0,No Depression
+1,18,Engineering,3,2.0,0,0,1,0,2,0,1,5,2,2,1,0,No Depression
+0,20,KENMS,1,3.19,1,1,1,0,0,0,5,5,10,1,0,0,No Depression
+0,25,KENMS,1,4.0,1,1,1,0,1,0,3,1,15,4,0,1,Depression
+0,19,KENMS,1,2.0,1,0,0,0,3,0,2,3,5,1,0,1,Depression
+1,21,BCS,2,2.13,0,1,0,0,1,0,2,1,6,4,1,1,Depression
+0,24,Accounting ,5,2.0,1,0,0,0,6,0,1,1,5,1,0,1,Depression
+0,23,Accounting ,5,2.0,1,1,1,0,2,0,3,3,1,4,0,1,Depression
+0,18,Accounting ,5,2.36,0,1,0,0,6,0,1,3,8,2,1,1,Depression
+0,21,ENM,6,4.0,0,1,1,0,4,0,5,4,16,5,1,1,Depression
+0,24,ENM,6,2.0,0,0,1,0,1,0,4,5,6,1,1,1,Depression
+0,23,BIT,1,2.0,0,0,1,0,1,0,1,2,3,4,1,1,Depression
+0,25,BIT,1,4.0,0,1,0,0,0,0,4,2,19,2,1,1,Depression
+0,19,BIT,1,3.28,1,1,0,0,7,0,5,1,10,1,0,0,No Depression
+0,21,Engineering,3,2.18,1,1,1,0,4,0,1,4,5,1,0,0,No Depression
+0,22,Engineering,3,2.0,0,1,1,0,3,0,3,2,1,4,1,1,Depression
+0,25,KOE,1,4.0,1,1,0,0,7,0,4,4,18,3,0,1,Depression
+0,22,BCS,3,4.0,1,0,0,0,0,0,3,5,17,4,0,1,Depression
+0,22,KOE,1,4.0,1,1,1,0,2,0,4,5,17,3,0,1,Depression
+0,21,KOE,1,2.0,0,1,0,0,1,0,4,2,1,5,1,1,Depression
+0,24,KOE,1,2.23,1,1,1,0,3,0,1,2,2,5,0,1,Depression
+0,23,BCS,3,4.0,0,0,0,0,3,0,3,5,19,5,1,1,Depression
+0,24,Engineering,3,4.0,1,1,0,0,6,0,3,5,19,3,0,1,Depression
+0,23,Engineering,3,3.1,1,0,1,0,0,0,5,1,9,1,0,0,No Depression
+0,22,BCS,2,4.0,0,0,0,0,3,0,1,4,17,5,1,1,Depression
+0,19,BCS,2,2.0,1,0,0,0,3,0,1,1,5,1,0,1,Depression
+0,23,BCS,2,2.0,0,0,1,0,2,0,1,1,3,3,1,1,Depression
+0,18,Banking Studies,3,2.0,0,0,0,0,5,0,1,4,3,3,1,1,Depression
+0,22,Banking Studies,3,4.0,0,1,0,0,2,0,3,1,17,1,1,0,No Depression
+0,25,Banking Studies,3,2.93,1,1,0,0,7,0,1,1,8,3,0,0,No Depression
+0,21,Engineering,3,4.0,0,0,1,0,0,0,5,5,15,5,1,1,Depression
+0,24,Engineering,3,4.0,1,1,0,0,3,0,1,1,16,4,0,1,Depression
+0,21,Engineering,3,3.15,0,1,0,0,1,0,2,1,9,3,1,0,No Depression
+1,24,Engineering,1,2.84,0,0,1,0,5,0,4,1,10,4,1,1,Depression
+1,18,Engineering,1,3.91,1,1,1,0,7,0,1,4,10,5,0,0,No Depression
+0,24,BIT,2,4.0,0,0,1,1,5,1,1,3,16,5,1,1,Depression
+0,23,BIT,2,2.23,0,0,1,1,3,1,5,4,5,3,1,1,Depression
+0,21,BIT,2,4.0,1,0,1,1,4,1,2,1,14,4,0,1,Depression
+0,18,Business Administration,1,2.0,1,1,0,0,6,0,2,4,1,1,0,0,No Depression
+0,23,Business Administration,1,2.78,1,1,1,0,7,0,3,3,6,3,0,0,No Depression
+0,18,Business Administration,1,2.0,1,0,1,0,6,0,5,4,3,1,0,1,Depression
+0,18,Business Administration,1,2.84,0,0,0,0,0,0,1,2,5,5,1,0,No Depression
+1,22,BCS,4,4.0,1,0,1,0,0,0,1,3,19,2,0,1,Depression
+1,18,BCS,3,4.0,0,1,1,0,2,0,5,4,15,5,1,1,Depression
+1,19,BCS,4,2.71,1,1,1,0,2,0,2,5,5,2,0,0,No Depression
+1,21,BCS,1,4.0,1,1,1,1,2,1,3,5,15,2,0,0,No Depression
+1,19,BCS,1,2.07,1,0,0,1,4,1,1,2,1,1,0,0,No Depression
+1,21,BCS,1,3.07,1,1,1,1,6,1,4,5,6,4,0,0,No Depression
+0,20,BIT,3,2.22,1,1,1,0,7,0,4,5,1,4,0,0,No Depression
+0,22,BIT,3,4.0,1,1,0,0,6,0,5,4,19,5,0,1,Depression
+0,18,Law,2,2.0,1,1,0,0,3,0,3,4,2,2,0,0,No Depression
+0,24,Engineering,3,2.14,1,1,1,0,6,0,5,2,3,5,0,1,Depression
+0,21,Law,2,2.05,1,0,0,0,1,0,4,1,4,2,0,1,Depression
+0,18,Law,2,4.0,1,0,0,0,0,0,3,5,17,4,0,1,Depression
+0,18,Engineering,3,2.49,0,1,0,0,4,0,3,1,8,1,1,0,No Depression
+0,18,BIT,3,4.0,0,0,1,0,5,0,1,4,16,5,1,1,Depression
+0,25,BIT,3,2.0,0,1,0,0,0,0,2,5,1,5,1,1,Depression
+0,25,BIT,3,2.67,0,0,0,0,6,0,3,4,10,1,1,1,Depression
+0,18,BIT,3,3.6,0,0,0,0,5,0,5,4,13,1,1,0,No Depression
+0,24,BIT,3,4.0,1,0,0,0,4,0,1,2,14,4,0,0,No Depression
+0,18,BIT,3,2.0,1,0,1,0,7,0,1,4,3,2,0,0,No Depression
+0,25,Engineering,1,2.4,0,0,0,1,3,1,3,5,5,4,1,1,Depression
+0,21,Engineering,1,2.53,0,0,0,1,7,1,2,1,8,5,1,1,Depression
+0,24,Engineering,1,4.0,1,0,1,1,6,1,3,1,18,4,0,1,Depression
+0,18,Engineering,1,2.0,1,0,0,1,1,1,2,1,1,2,0,0,No Depression
+0,22,Engineering,6,4.0,0,0,0,0,6,0,2,4,15,5,1,1,Depression
+0,20,Engineering,6,2.25,1,1,0,0,4,0,4,4,4,4,0,1,Depression
+0,21,Engineering,6,4.0,1,1,0,0,4,0,2,5,12,3,0,0,No Depression
+0,21,BIT,2,4.0,1,1,1,0,1,0,3,4,14,1,0,0,No Depression
+0,20,Usuluddin ,4,2.0,1,0,0,0,1,0,4,3,3,1,0,1,Depression
+0,24,Usuluddin ,4,3.43,0,0,1,0,3,0,3,3,11,3,1,1,Depression
+0,22,Usuluddin ,4,3.89,0,1,1,0,6,0,3,2,10,5,1,0,No Depression
+1,21,BIT,3,3.94,0,0,0,0,7,0,4,3,14,4,1,0,No Depression
+1,19,BIT,3,3.97,1,1,0,0,6,0,2,5,15,2,0,0,No Depression
+1,23,BIT,3,3.36,1,1,0,0,2,0,4,2,10,3,0,0,No Depression
+1,24,BIT,3,3.51,1,1,0,0,1,0,5,4,11,4,0,1,Depression
+1,23,TAASL,4,3.85,0,0,1,0,3,0,1,4,17,1,1,1,Depression
+1,23,TAASL,4,2.36,1,0,0,0,7,0,4,3,6,3,0,1,Depression
+1,23,TAASL,4,2.0,1,0,0,0,5,0,1,4,4,1,0,1,Depression
+1,18,BCS,3,2.46,0,1,1,0,3,0,4,5,4,5,1,1,Depression
+1,25,BCS,3,2.58,1,1,1,0,5,0,4,3,5,2,0,0,No Depression
+0,18,Engineering,3,3.76,1,0,1,0,7,0,5,5,11,1,0,0,No Depression
+0,23,Engineering,3,4.0,1,0,1,0,5,0,2,3,14,1,0,0,No Depression
+0,24,Engine,6,2.57,1,1,0,0,5,0,3,3,7,2,0,1,Depression
+1,23,BCS,4,2.24,0,0,1,0,1,0,3,4,5,3,1,1,Depression
+1,18,BCS,4,2.0,1,0,0,0,3,0,5,1,3,4,0,1,Depression
+0,24,Engine,6,2.09,1,0,1,0,1,0,3,3,4,3,0,1,Depression
+0,19,BCS,5,3.92,0,0,0,0,7,0,1,4,13,4,1,0,No Depression
+0,19,BCS,5,2.94,1,0,1,0,0,0,5,4,5,5,0,1,Depression
+0,23,ALA,3,2.26,1,0,1,1,6,1,3,3,6,1,0,1,Depression
+0,24,BCS,4,2.0,1,1,0,0,3,0,3,3,1,3,0,0,No Depression
+0,24,BCS,4,2.0,0,0,0,0,0,0,3,5,1,1,1,0,No Depression
+0,22,BCS,4,2.0,0,0,0,0,7,0,5,3,4,2,1,1,Depression
+0,21,Biomedical science,5,4.0,1,0,1,0,2,0,1,4,15,4,0,1,Depression
+0,21,Biomedical science,5,2.0,1,1,1,0,4,0,1,4,3,3,0,1,Depression
+0,25,Biomedical science,5,3.87,0,1,1,0,0,0,2,4,12,4,1,0,No Depression
+0,21,Biomedical science,5,3.47,0,1,1,0,0,0,5,2,6,5,1,0,No Depression
+0,20,Biomedical science,5,2.05,0,0,0,0,4,0,2,2,5,3,1,1,Depression
+0,21,Biomedical science,5,2.32,1,1,0,0,0,0,4,2,1,4,0,0,No Depression
+0,19,Biomedical science,5,2.11,1,0,1,0,7,0,1,5,3,5,0,1,Depression
+0,20,koe,5,4.0,1,1,1,0,3,0,5,5,18,2,0,1,Depression
+0,18,koe,5,3.96,1,1,1,0,1,0,4,2,11,1,0,0,No Depression
+0,23,koe,5,2.61,0,1,0,0,5,0,5,1,6,5,1,1,Depression
+0,24,koe,5,3.45,0,0,0,0,4,0,3,3,11,4,1,1,Depression
+0,20,koe,5,4.0,0,1,0,0,5,0,4,2,12,3,1,0,No Depression
+0,19,BCS,3,4.0,1,0,1,1,6,1,4,5,12,5,0,1,Depression
+0,25,BCS,3,3.01,0,0,1,1,4,1,4,2,10,1,1,1,Depression
+0,22,BCS,3,4.0,0,0,0,1,3,1,5,3,17,4,1,1,Depression
+0,20,BCS,3,3.64,1,0,0,1,7,1,2,1,11,4,0,0,No Depression
+0,22,BCS,3,4.0,1,1,1,1,0,1,2,1,13,4,0,0,No Depression
+0,18,BCS,3,2.85,0,0,0,1,2,1,1,4,8,3,1,1,Depression
+1,21,BCS,3,2.0,0,0,0,0,3,0,2,2,2,2,1,0,No Depression
+1,18,BCS,3,2.63,1,1,0,0,6,0,4,4,7,2,0,0,No Depression
+1,25,Kirkhs,2,2.45,0,0,0,0,0,0,4,3,9,2,1,1,Depression
+1,21,Kirkhs,2,2.9,1,1,0,0,3,0,4,2,5,3,0,0,No Depression
+0,24,BENL,2,2.04,0,0,0,0,4,0,4,1,2,4,1,1,Depression
+0,23,BCS,3,4.0,0,0,0,0,6,0,4,1,18,3,1,1,Depression
+0,23,BCS,3,2.95,1,1,0,0,2,0,1,1,10,1,0,0,No Depression
+0,24,Benl,3,4.0,1,1,1,0,4,0,1,5,13,4,0,0,No Depression
+0,23,Benl,3,4.0,0,0,0,0,5,0,4,3,14,4,1,0,No Depression
+0,25,Benl,3,3.82,0,1,1,0,5,0,1,5,10,5,1,0,No Depression
+0,19,IT,2,2.0,1,0,1,0,6,0,4,1,3,3,0,1,Depression
+0,18,IT,2,2.0,1,0,1,0,7,0,5,5,1,1,0,0,No Depression
+0,23,BCS,3,4.0,1,0,0,0,1,0,5,4,19,1,0,1,Depression
+0,18,CTS,0,2.0,1,0,0,0,0,0,5,4,2,1,0,0,No Depression
+0,19,CTS,0,3.83,1,0,0,0,7,0,2,4,14,5,0,0,No Depression
+0,23,CTS,0,2.66,0,1,0,0,2,0,2,1,10,1,1,1,Depression
+0,19,engin,3,2.7,1,1,1,0,2,0,1,2,6,4,0,0,No Depression
+0,20,engin,3,2.53,1,0,0,0,0,0,2,3,5,4,0,1,Depression
+0,18,engin,3,3.08,1,1,0,0,7,0,2,3,10,5,0,1,Depression
+0,18,engin,3,2.0,0,1,1,0,1,0,1,3,1,3,1,0,No Depression
+0,20,engin,3,2.0,1,0,0,0,1,0,4,1,4,2,0,1,Depression
+0,23,Engine,3,2.42,0,0,1,0,1,0,2,2,8,2,1,1,Depression
+0,25,Engine,3,4.0,0,1,1,0,0,0,4,5,13,4,1,0,No Depression
+0,24,Engine,3,2.28,0,0,0,0,1,0,1,3,9,1,1,1,Depression
+0,23,Engine,3,4.0,1,0,0,0,1,0,3,2,16,1,0,0,No Depression
+0,21,Engine,3,2.0,1,0,0,0,6,0,1,5,1,1,0,0,No Depression
+0,22,Econs,3,2.38,0,1,1,0,4,0,5,5,4,1,1,0,No Depression
+0,21,KOE,2,2.83,0,0,0,0,0,0,5,4,8,4,1,1,Depression
+1,19,MHSC,2,4.0,1,1,0,0,6,0,2,1,13,4,0,0,No Depression
+1,24,MHSC,2,4.0,0,0,1,0,1,0,3,4,16,3,1,1,Depression
+0,23,Malcom,3,2.21,0,0,0,0,4,0,3,3,6,3,1,1,Depression
+0,25,Malcom,3,3.86,1,1,1,0,6,0,3,5,12,4,0,0,No Depression
+0,23,Malcom,3,3.99,0,1,1,0,3,0,2,5,16,2,1,0,No Depression
+0,20,Kop,6,2.0,0,1,0,0,5,0,4,3,2,1,1,0,No Depression
+0,25,Kop,6,4.0,0,0,1,0,3,0,5,3,17,4,1,1,Depression
+0,18,Biomedical science,3,4.0,0,0,1,0,4,0,1,4,19,1,1,0,No Depression
+0,24,Biomedical science,3,2.34,1,0,0,0,7,0,5,3,6,3,0,1,Depression
+0,22,Biomedical science,3,3.6,0,0,0,0,7,0,1,1,12,4,1,0,No Depression
+0,18,Biomedical science,3,3.69,0,1,0,0,4,0,3,3,12,2,1,0,No Depression
+0,18,Laws,2,2.0,1,0,0,0,5,0,5,4,4,1,0,1,Depression
+0,24,Laws,2,3.64,1,1,1,0,7,0,1,2,12,1,0,0,No Depression
+0,20,BIT,2,4.0,0,1,1,0,5,0,3,3,14,4,1,0,No Depression
+1,23,BIT,2,4.0,0,0,0,0,5,0,3,1,17,1,1,0,No Depression
+1,25,BIT,2,4.0,0,0,1,0,7,0,5,3,15,5,1,1,Depression
+0,25,KOE,3,2.0,0,1,0,0,5,0,1,2,3,4,1,1,Depression
+0,23,KOE,3,3.83,0,0,0,0,7,0,5,4,15,1,1,0,No Depression
+0,20,KOE,3,2.31,0,1,0,0,6,0,1,3,7,1,1,0,No Depression
+0,23,Engineering,3,3.72,1,0,0,0,3,0,4,1,12,2,0,0,No Depression
+0,19,Human Sciences ,1,2.0,0,0,1,0,1,0,5,4,3,1,1,1,Depression
+0,24,Human Sciences ,1,3.89,1,0,1,0,5,0,5,4,13,3,0,0,No Depression
+0,20,Human Sciences ,1,2.46,1,0,0,0,0,0,2,5,8,1,0,1,Depression
