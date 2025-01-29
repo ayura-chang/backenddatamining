@@ -10,14 +10,14 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["https://ayura-chang.github.io/frontenddatamining/","http://localhost:5173", "https://backenddatamining-production.up.railway.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
 
-data = pd.read_csv('Mental_Health_dataset.csv')
+data = pd.read_csv('Mental_Health_dataset.csv', delimiter=';')
 
 
 data = data[['Gender', 'Age', 'Course', 'YearOfStudy', 'CGPA', 'Depression', 'Anxiety',
